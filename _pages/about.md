@@ -12,6 +12,8 @@ profile:
     <p> B-308 Padelford Hall </p> 
     <p> University of Washington </p>
     <p> Seattle, WA 98195 </p>
+    <p> </p>
+    <p> giessing@uw.ed </p>
 
 news: false # true  # includes a list of news items
 latest_posts: false # true  # includes a list of the newest posts
