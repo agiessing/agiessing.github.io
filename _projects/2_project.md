@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wenjie Guan (2023--)
+title: {W}enjie {G}uan (2023--)
 description: MS Student
 img: assets/img/Wenjie_Guan.jpeg
 importance: 2
