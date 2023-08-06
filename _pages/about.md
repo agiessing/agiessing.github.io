@@ -25,6 +25,6 @@ Ongoing Research:
  * High-dimensional Statistics
  * Gaussian and Bootstrap Approximations for High-Dimensional Data
  * Inference with Missing/ Incomplete Data
- * Empricial Process Theory
+ * Empirical Process Theory
 
 Before coming to Seattle, I was Postdoctoral Research Associate at Princeton University. I obtained a PhD in statistics from the University of Michigan, a MSc in Econometrics and Mathematical Economics from the London School of Economics and Political Science (UK) and a BSc in Economics from the University of Bonn (DE).
