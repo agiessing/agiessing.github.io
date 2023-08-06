@@ -27,4 +27,4 @@ Ongoing Research:
  * Analysis of Missing/ Incomplete Data
  * Empirical Process Theory
 
-Before coming to Seattle, I was Postdoctoral Research Associate at Princeton University. I obtained a PhD in statistics from the University of Michigan, a MSc in Econometrics and Mathematical Economics from the London School of Economics and Political Science (UK) and a BSc in Economics from the University of Bonn (DE).
+Before joining the University of Washington, I was Postdoctoral Research Associate at Princeton University. I obtained a PhD in statistics from the University of Michigan, a MSc in Econometrics and Mathematical Economics from the London School of Economics and Political Science (UK) and a BSc in Economics from the University of Bonn (DE).
