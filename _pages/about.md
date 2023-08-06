@@ -29,7 +29,7 @@ Before coming to Seattle, I was Postdoctoral Research Associate at Princeton Uni
 
 
 
-*******************************************************************************
+/*******************************************************************************
  * My research leverages statistical science to make AI more reliable and robust in the real world. Some topics of recent interest include
  * adversarial and distributional robustness,
  * algorithmic fairness,
