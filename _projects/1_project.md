@@ -5,5 +5,5 @@ description: PhD Student
 img: assets/img/Yikun_Zhang.jpg
 importance: 1
 category: work
-related_publications: # einstein1956investigations, einstein1950meaning
+redirect: https://zhangyk8.github.io
 ---
