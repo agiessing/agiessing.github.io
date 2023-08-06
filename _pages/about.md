@@ -22,9 +22,9 @@ social: true  # includes social icons at the bottom of the page
 I am an acting assistant professor in the [Department of Statistics](https://stat.uw.edu) at the [University of Washington](https://www.washington.edu). My research is supported by the National Science Foundation (grant num. DMS-2310578).
 
 Ongoing Research:
- * High-dimensional Statistics
+ * High-dimensional Inference
  * Gaussian and Bootstrap Approximations for High-Dimensional Data
- * Inference with Missing/ Incomplete Data
+ * Analysis of Missing/ Incomplete Data
  * Empirical Process Theory
 
 Before coming to Seattle, I was Postdoctoral Research Associate at Princeton University. I obtained a PhD in statistics from the University of Michigan, a MSc in Econometrics and Mathematical Economics from the London School of Economics and Political Science (UK) and a BSc in Economics from the University of Bonn (DE).
