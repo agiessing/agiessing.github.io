@@ -23,7 +23,7 @@ I am an acting assistant professor in the [Department of Statistics](https://sta
 
 Ongoing Research:
  * High-dimensional Inference
- * Gaussian and Bootstrap Approximations for High-Dimensional Data
+ * Gaussian and Bootstrap Approximations
  * Analysis of Missing/ Incomplete Data
  * Empirical Process Theory
 
