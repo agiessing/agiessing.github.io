@@ -5,7 +5,7 @@ title: people
 description: group members
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [current, past]
 horizontal: false
 ---
 
