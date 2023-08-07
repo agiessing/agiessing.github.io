@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p> B-308 Padelford Hall </p> 
+    <p> Northeast Stevens Way </p>
     <p> University of Washington </p>
     <p> Seattle, WA 98195 </p>
 
