@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 I am an acting assistant professor in the [Department of Statistics](https://stat.uw.edu) at the [University of Washington](https://www.washington.edu). My research is supported by the National Science Foundation (grant num. DMS-2310578). I am broadly interested in inference on high-dimensional data. 
 
 Ongoing Research Themes:
- * Semiparametric Efficient Inference
+ * Inference on Semiparametric Models
  * Gaussian and Bootstrap Approximations
  * Analysis of Missing/ Incomplete Data
  * Quantile Regression
