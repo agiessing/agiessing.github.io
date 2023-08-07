@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: group members
+title: people
 description: I have the immense fortune to work with these fantastic students, and I am always looking to add more talented and hard-working students to my group.
 nav: true
 nav_order: 1
