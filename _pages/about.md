@@ -20,7 +20,7 @@ selected_papers: false #true # includes a list of papers marked as "selected={tr
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am acting assistant professor in the [Department of Statistics](https://stat.uw.edu) at the [University of Washington](https://www.washington.edu). I am broadly interested in inference on high-dimensional data sets. My research is supported by the National Science Foundation (NSF DMS-2310578). 
+I am acting assistant professor in the [Department of Statistics](https://stat.uw.edu) at the [University of Washington](https://www.washington.edu). I am broadly interested in inference on high-dimensional data. My research is supported by the National Science Foundation (NSF DMS-2310578). 
 
 Ongoing Research Themes:
  * Inference on Semiparametric Models
