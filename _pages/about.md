@@ -17,7 +17,7 @@ profile:
 news: false # true  # includes a list of news items
 latest_posts: false # true  # includes a list of the newest posts
 selected_papers: false #true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false #true  # includes social icons at the bottom of the page
 ---
 
 I am acting assistant professor in the [Department of Statistics](https://stat.uw.edu) at the [University of Washington](https://www.washington.edu). I am broadly interested in inference on high-dimensional data. My research is supported by the National Science Foundation (NSF DMS-2310578). 
