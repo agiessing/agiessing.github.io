@@ -3,7 +3,7 @@ layout: archiv
 permalink: /teaching/
 title: teaching
 description: 
-nav: false
+nav: true
 nav_order: 3
 ---
 
