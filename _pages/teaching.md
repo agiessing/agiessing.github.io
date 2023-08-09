@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv #page
 permalink: /cv/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
