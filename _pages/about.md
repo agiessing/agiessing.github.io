@@ -25,7 +25,7 @@ I am acting assistant professor in the [Department of Statistics](https://stat.u
 Ongoing Research Themes:
  * Gaussian and Bootstrap Approximations
  * Analysis of Missing/ Incomplete Data
- * Inference on Semiparametric Models
+ * Semiparametric Inference
  * Quantile Regression
  * Empirical Process Theory
 
