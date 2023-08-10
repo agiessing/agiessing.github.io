@@ -71,14 +71,36 @@ description: classes, workshops, and teaching material
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">PhD-level topics course.</li>
       <li class="list-group-item"> In this course we develop elements of the theory of Gaussian and empirical processes that have proved useful for statistical inference in high-dimensional models, i.e. statistical models in which the number of parameters is much larger than the sample size. The course consists of three parts: an introduction to modern techniques in Gaussian processes, a recap of empirical classical process theory emphasizing weak convergence on metric spaces, and lastly, a discussion of Gaussian approximation, high-dimensional CLTs, and the conditional multiplier bootstrap. </li>
-      <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
-      <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
       <li class="list-group-item">— This course is part of the course offerings
       at the Pacific Institute for the Mathematical Sciences (PIMS: <a href="https://courses.pims.math.ca/tag/2022-2023/"> link</a>).</li>
+      <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
+      <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
     </ul>
   </div>
 </div>
 
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Stochastic Modeling of Scientific Data I</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold text-uppercase align-middle">
+            STAT 516
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">Graduate-level course on inference on stochastic processes.</li>
+      <li class="list-group-item"> Markov chains; ergodic theorem; Monte Carlo Markov Chains; Hidden Markov Models; frequentist and Bayesian inference on Markov chains. </li>
+      <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
+      <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
+    </ul>
+  </div>
+</div>
 
 
 
