@@ -40,7 +40,7 @@ of data sets and implementation of statistical methods in R are an integral part
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle">
-            MATH/ STAT 394
+            STAT 394
         </span>
       </div>
     </div>
