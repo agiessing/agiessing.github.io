@@ -140,7 +140,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">December 2018</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Four-day lecture series on empirical theory. </li>
-      <li class="list-group-item"> In this short course we give an introduction to empirical process theory with a focus on techniques that are relevant in modern, high-dimensional statistical problems. We also discuss selected problems from high-dimensional statistics.</li>
+      <li class="list-group-item"> This short course is an introduction to empirical process theory with a focus on techniques that are relevant in modern, high-dimensional statistical problems. </li>
       <li class="list-group-item">— <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm"> Syllabus</a> </li>
       <li class="list-group-item">— <a href="..."> Lecture notes</a> </li>
     </ul>
