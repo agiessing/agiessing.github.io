@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Courses
-nav: Courses
+nav: true
 description: courses, workshops, and lecture notes
 ---
 
