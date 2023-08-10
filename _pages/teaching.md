@@ -23,7 +23,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2021, 2022, 2023; Winter 2022, 2023; Spring 2022, 2023  </h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability and statistics.</li>
-      <li class="list-group-item"> The first half of the course develops the mathematical background needed to describe (aka "model") real world phenomena in probabilistic terms. The second half introduces statistical methods to learn (aka "infer") about real world phenomena by combining probabilistic models and data. We cover the following concepts: axioms of probability theory, discrete and continuous random variables, joint and marginal distributions, expectation and variance, weak law of large numbers, central limit theorem, maximum likelihood and method of moment estimators, confidence intervals, hypothesis tests and power analysis, bootstrap confidence intervals and tests, and comparison of treatments.</li>
+      <li class="list-group-item"> The first half of the course develops the mathematical background needed to describe (aka "model") real world phenomena in probabilistic terms. The second half introduces statistical methods to learn (aka "infer") about real world phenomena by combining probabilistic models and data. Topics covered are the axioms of probability theory, discrete and continuous random variables, joint and marginal distributions, expectation and variance, weak law of large numbers, central limit theorem, maximum likelihood and method of moment estimators, confidence intervals, hypothesis tests and power analysis, bootstrap confidence intervals and tests, and comparison of treatments.</li>
       <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
       <li class="list-group-item">— Problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
       <li class="list-group-item">— Lab exercises (coding in R): <a href="...">Lab1, Lab2, Lab3, Lab4, Lab5, Lab6, Lab7, Lab8, Lab9</a> </li>               <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
@@ -94,7 +94,7 @@ description: classes, workshops, and teaching material
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2023</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Graduate-level course on inference on stochastic processes.</li>
+      <li class="list-group-item">Graduate-level course on statistical inference on stochastic processes.</li>
       <li class="list-group-item"> Markov chains; ergodic theorem; Monte Carlo Markov Chains; Hidden Markov Models; frequentist and Bayesian inference on Markov chains. </li>
       <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
       <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
