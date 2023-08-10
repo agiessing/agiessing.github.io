@@ -9,7 +9,7 @@ display_categories:
 horizontal: true
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/teaching.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -56,24 +56,3 @@ horizontal: true
   {%- endif -%}
 {%- endif -%}
 </div>
-
-
-
-
-
-
-
----
-layout: archiv
-permalink: /teaching/
-title: teaching
-description: 
-nav: false
-nav_order: 3
----
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
