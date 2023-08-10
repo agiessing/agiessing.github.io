@@ -15,7 +15,7 @@ description: classes, workshops, and teaching material
         <h5 class="font-weight-bold">Statistical Methods in Engineering and Science</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold text-uppercase align-middle">
             STAT 390
         </span>
       </div>
