@@ -81,11 +81,10 @@ nav_order: 2
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023, University of Washington</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" > Pacific Institute for the Mathematical Sciences </a></h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">PhD/ Graduate course. This course was also part of the course offerings
-      at the <a href = "https://www.pims.math.ca" > Pacific Institute for the Mathematical Sciences </a> (<a href="https://courses.pims.math.ca/tag/2022-2023/">Courses 2022-2023</a>).</li>
-      <li class="list-group-item"> <a href="/assets/pdf/STAT 591 - Syllabus.pdf"> Syllabus</a>, Lecture notes (in progress) </li>
+      <li class="list-group-item">PhD/ Graduate course.</li>
+      <li class="list-group-item"> <a href="/assets/pdf/STAT 591 - Syllabus.pdf"> Syllabus UW </a>, <a href="https://courses.pims.math.ca/tag/2022-2023/"> Syllabus PIMS </a>, Lecture notes (in progress) </li>
     </ul>
   </div>
 </div>
