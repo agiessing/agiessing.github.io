@@ -22,13 +22,12 @@ description: classes, workshops, and teaching material
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2021, 2022, 2023; Winter 2022, 2023; Spring 2022, 2023  </h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> A 10-week (one quarter) calculus-based introduction to probability and statistics for engineers and
-scientists. The first half of the course provides the mathematical background and probabilistic models to
-describe the real world. The second half develops statistical methods to learn about the real world. Concepts
-discussed in this course include the axioms of probability theory, random variables, (joint) distributions, weak of large numbers , central limit theorem,  maximum likelihood and method of momnet estimators, confidence intervals (for mean and proportions), hypothesis tests and power analysis (for mean and proportions), bootstrap confidence intervals and tests, and simple linear regression. Statistical analyses
-of data sets and implementation of statistical methods using the software R form an integral part of this course.</li>
-      <li class="list-group-item">— Past problem sets: <a href="/assets/pdf/teaching/gmm_lecture.pdf">slides</a> and <a href="/assets/pdf/teaching/gmm_lecture_code.zip">code</a></li>
-      <li class="list-group-item">— Class webpage: <a href="/assets/pdf/teaching/cotraining_and_accuracy_estimation_lecture.pdf">slides</a></li>
+      <li class="list-group-item">Undergraduate-level introduction to calculus-based introduction to probability and statistics for engineers and
+scientists.</li>
+      <li class="list-group-item"> Concepts introduced in this class include the axioms of probability theory, random variables and their transformations, (joint) distributions, expectation and variance, weak of large numbers, central limit theorem, maximum likelihood and method of moment estimators, confidence intervals (for mean and proportions), hypothesis tests and power analysis (for mean and proportions), bootstrap confidence intervals and tests, and simple linear regression. Statistical analyses
+of data sets and implementation of statistical methods in R are an integral part.</li>
+      <li class="list-group-item">— Past problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
+      <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
     </ul>
   </div>
 </div>
