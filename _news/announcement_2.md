@@ -15,3 +15,5 @@ This project will develop two complementary lines of research: first, a novel fr
 The grant money will allow me to support 1-2 graduate students for some time while training them in high-dimensional statistics and probability theory.
 
 For more details, see the official award <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">abstract</a>.
+
+{% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
