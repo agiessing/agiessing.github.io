@@ -106,7 +106,7 @@ nav_order: 2
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2023, University of Washington</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Graduate course on statistical inference on stochastic processes.</li>
-      <li class="list-group-item"> Syllabus, Class webpage </li>
+      <li class="list-group-item"> Syllabus, Class webpage (comming soon!)</li>
     </ul>
   </div>
 </div>
