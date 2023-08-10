@@ -32,26 +32,6 @@ nav_order: 3
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Gaussian and Empirical Process Theory for High-Dimensional Data</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle">
-            STAT 591
-        </span>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" > Pacific Institute for the Mathematical Sciences</a></h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">PhD/ Graduate special topics course.</li>
-      <li class="list-group-item"> <a href="/assets/pdf/STAT 591 - Syllabus.pdf"> Syllabus UW</a>, <a href="https://courses.pims.math.ca/tag/2022-2023/"> Syllabus PIMS</a>, Lecture notes (in progress) </li>
-    </ul>
-  </div>
-</div>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
         <h5 class="font-weight-bold">Statistical Methods in Engineering and Science</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
@@ -60,7 +40,7 @@ nav_order: 3
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">University of Washington: Fall 2021, 2022, 2023; Winter 2022, 2023; Spring 2022, 2023  </h6>
+    <h6 class="font-italic mt-2 mt-sm-0"> Fall 2023, Unviersity of Washington</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability and statistics.</li>
       <li class="list-group-item"> <a href="/assets/pdf/STAT 390 - Syllabus - long version-2.pdf"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1635461"> Class webpage</a> </li>
@@ -78,6 +58,27 @@ nav_order: 3
     </ul>
   </div>
 </div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Gaussian and Empirical Process Theory for High-Dimensional Data</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold text-uppercase align-middle">
+            STAT 591
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" > Pacific Institute for the Mathematical Sciences</a></h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">PhD/ Graduate special topics course.</li>
+      <li class="list-group-item"> <a href="/assets/pdf/STAT 591 - Syllabus.pdf"> Syllabus UW</a>, <a href="https://courses.pims.math.ca/tag/2022-2023/"> Syllabus PIMS</a>, Lecture notes (in progress) </li>
+    </ul>
+  </div>
+</div>
+
 
 
 <div class="card mt-3">
