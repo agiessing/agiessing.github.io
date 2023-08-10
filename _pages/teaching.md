@@ -6,8 +6,6 @@ nav: teaching
 description: classes, workshops, and teaching material
 ---
 
-<h3 class="mt-4">University of Washington</h3>
-
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -20,7 +18,7 @@ description: classes, workshops, and teaching material
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Fall 2021, 2022, 2023; Winter 2022, 2023; Spring 2022, 2023  </h6>
+    <h6 class="font-italic mt-2 mt-sm-0">University of Washington: Fall 2021, 2022, 2023; Winter 2022, 2023; Spring 2022, 2023  </h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability and statistics.</li>
       <li class="list-group-item"> <a href="/assets/pdf/STAT 390 - Syllabus - long version-2.pdf"> Syllabus</a>, <a href="...."> Class webpage</a>   </li>
@@ -42,7 +40,7 @@ description: classes, workshops, and teaching material
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2022</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2022, University of Washington</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability theory.</li>
       <li class="list-group-item"> <a href="/assets/pdf/STAT 394 - Syllabus.pdf"> Syllabus</a>, <a href="...."> Class webpage</a>  </li>
@@ -64,7 +62,7 @@ description: classes, workshops, and teaching material
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023, University of Washington</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">PhD/ Graduate course. This course was part of the course offerings
       at the <a href = "https://www.pims.math.ca" > Pacific Institute for the Mathematical Sciences </a> (<a href="https://courses.pims.math.ca/tag/2022-2023/">Courses 2022-2023</a>).</li>
@@ -86,16 +84,13 @@ description: classes, workshops, and teaching material
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Fall 2023</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Fall 2023, University of Washington</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Graduate course on statistical inference on stochastic processes.</li>
       <li class="list-group-item"> <a href="..."> Syllabus</a>,  <a href="...."> Class webpage</a> </li>
     </ul>
   </div>
 </div>
-
-
-<h3 class="mt-4">Princeton University</h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -109,15 +104,13 @@ description: classes, workshops, and teaching material
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2019</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2019, Princeton University</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability, statistics, and machine learning.</li>
       <li class="list-group-item"> <a href="/assets/pdf/ORF 245_Syllabus_Updated.pdf"> Syllabus</a> </li>
     </ul>
   </div>
 </div>
-
-<h3 class="mt-4">Nankai University</h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -128,7 +121,7 @@ description: classes, workshops, and teaching material
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">December 2018</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">December 2018, Nankai University</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Four-day lecture series on empirical theory. </li>
       <li class="list-group-item"> <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf"> Lecture notes</a> </li>
