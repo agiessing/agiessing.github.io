@@ -43,7 +43,7 @@ nav_order: 3
     <h6 class="font-italic mt-2 mt-sm-0"> Fall 2023, Unviersity of Washington</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability and statistics.</li>
-      <li class="list-group-item"> <a href="/assets/pdf/STAT 390 - Syllabus - long version-2.pdf"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1635461"> Class webpage</a> </li>
+      <li class="list-group-item"> Syllabus, Class webpage (check back again in September!)</li>
       <li class="list-group-item">  Problem sets (Spring 2023):
         <a href="/assets/pdf/STAT390-Spring2023-Homework-01.pdf"> PS1</a>,
         <a href="/assets/pdf/STAT390-Spring2023-Homework-02.pdf"> PS2</a>, 
