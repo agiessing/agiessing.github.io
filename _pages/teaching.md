@@ -68,9 +68,8 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2023</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">PhD-level topics course. This course was part of the course offerings
-      at the Pacific Institute for the Mathematical Sciences (PIMS: <a href="https://courses.pims.math.ca/tag/2022-2023/"> link</a>).</li>
-      <li class="list-group-item">— <a href="..."> Lecture notes</a> </li>
-      <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
+      at the <a href = "https://www.pims.math.ca" > Pacific Institute for the Mathematical Sciences </a> (<a href="https://courses.pims.math.ca/tag/2022-2023/">Courses 2022-2023</a>).</li>
+      <li class="list-group-item">— <a href="..."> Syllabus</a>, <a href="..."> Lecture notes</a>, <a href="...."> Class webpage</a>  </li>
     </ul>
   </div>
 </div>
@@ -91,8 +90,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2023</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Graduate-level course on statistical inference on stochastic processes.</li>
-      <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
-      <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
+      <li class="list-group-item">— <a href="..."> Syllabus</a>,  <a href="...."> Class webpage</a> </li>
     </ul>
   </div>
 </div>
@@ -134,8 +132,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">December 2018</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Four-day lecture series on empirical theory with focus on modern techniques that are useful in high-dimensional statistical problems. </li>
-      <li class="list-group-item">— <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm"> Syllabus</a> </li>
-      <li class="list-group-item">— <a href="..."> Lecture notes</a> </li>
+      <li class="list-group-item">— <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm"> Syllabus</a> <a href="..."> Lecture notes</a> </li>
     </ul>
   </div>
 </div>
