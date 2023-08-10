@@ -12,6 +12,6 @@ The project aims to develop new methodology for inference on high-dimensional an
 
 This project will develop two complementary lines of research: first, a novel framework for semiparametric efficient inference in high dimensions after adjusting for incomplete data and, second, new multiplier bootstrap tests for simultaneous and large-scale multiple testing problems that are robust to missingness.
 
-The grant money will not only allow me to  ... but also to support 1-2 graduate students for some time 
+The grant money will allow me to support 1-2 graduate students for some time while training them in high-dimensional statistics and probability theory.
 
 For more details, see the official award <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">abstract</a>.
