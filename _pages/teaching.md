@@ -26,7 +26,7 @@ description: classes, workshops, and teaching material
 scientists.</li>
       <li class="list-group-item"> Concepts introduced in this class include the axioms of probability theory, random variables and their transformations, (joint) distributions, expectation and variance, weak law of large numbers, central limit theorem, maximum likelihood and method of moment estimators, confidence intervals (for mean and proportion), hypothesis tests and power analysis (for mean and proportion), bootstrap confidence intervals and tests, and comparison of treatments (for mean and proportion). Statistical analyses
 of data sets and implementation of statistical methods in R are an integral part.</li>
-      <li class="list-group-item">— <a href="..."> Past Syllabus</a> </li>
+      <li class="list-group-item">— <a href="..."> Past syllabus</a> </li>
       <li class="list-group-item">— Past problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
       <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
     </ul>
