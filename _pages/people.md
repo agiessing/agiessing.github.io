@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: students
 description: I have the immense fortune to work with fantastic students, and I am always looking to add more talented and hard-working students to my group.
-nav: true
+nav: false #true
 nav_order: 1
 display_categories: [current, former]
 horizontal: false
