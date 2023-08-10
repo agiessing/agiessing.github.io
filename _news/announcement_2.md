@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSF recognizes my research on incomplete data!
+title: NSF recognizes my research!
 date: 2023-06-15 16:11:00-0400
 inline: false
 related_posts: false
