@@ -32,8 +32,7 @@ description: classes, workshops, and teaching material
         <a href="/assets/pdf/STAT390-Spring2023-Homework-07.pdf"> PS7</a>, 
         <a href="/assets/pdf/STAT390-Spring2023-Homework-08.pdf"> PS8</a>, 
         <a href="/assets/pdf/STAT390-Spring2023-Homework-09.pdf"> PS9</a> 
-        </li> 
-      <li class="list-group-item"> Lab exercises (Winter 2023): <a href="...">Lab1, Lab2, Lab3, Lab4, Lab5, Lab6, Lab7, Lab8, Lab9</a> </li>       
+        </li>      
     </ul>
   </div>
 </div>
