@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Courses
 description: courses, workshops, and lecture notes
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <div class="card mt-3">
