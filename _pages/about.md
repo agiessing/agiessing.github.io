@@ -9,11 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> Office: </p>
     <p> B-308 Padelford Hall </p> 
     <p> University of Washington </p>
     <p> Seattle, WA 98195 </p>
-    <p> E-mail: </p>
     <p> giessing@uw.edu </p>
 
 news: false # true  # includes a list of news items
