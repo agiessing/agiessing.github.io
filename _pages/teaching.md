@@ -22,10 +22,11 @@ description: classes, workshops, and teaching material
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2021, 2022, 2023; Winter 2022, 2023; Spring 2022, 2023  </h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Undergraduate-level introduction to calculus-based introduction to probability and statistics for engineers and
+      <li class="list-group-item">Undergraduate-level calculus-based introduction to probability and statistics for engineers and
 scientists.</li>
-      <li class="list-group-item"> Concepts introduced in this class include the axioms of probability theory, random variables and their transformations, (joint) distributions, expectation and variance, weak of large numbers, central limit theorem, maximum likelihood and method of moment estimators, confidence intervals (for mean and proportions), hypothesis tests and power analysis (for mean and proportions), bootstrap confidence intervals and tests, and simple linear regression. Statistical analyses
+      <li class="list-group-item"> Concepts introduced in this class include the axioms of probability theory, random variables and their transformations, (joint) distributions, expectation and variance, weak law of large numbers, central limit theorem, maximum likelihood and method of moment estimators, confidence intervals (for mean and proportion), hypothesis tests and power analysis (for mean and proportion), bootstrap confidence intervals and tests, and comparison of treatments (for mean and proportion). Statistical analyses
 of data sets and implementation of statistical methods in R are an integral part.</li>
+      <li class="list-group-item">— <a href="..."> Past Syllabus</a> </li>
       <li class="list-group-item">— Past problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
       <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
     </ul>
