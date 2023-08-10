@@ -2,8 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Courses
-nav: true
 description: courses, workshops, and lecture notes
+nav: true
+nav_order: 2
 ---
 
 <div class="card mt-3">
