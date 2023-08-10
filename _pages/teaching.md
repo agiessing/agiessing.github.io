@@ -11,6 +11,47 @@ nav_order: 3
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
+        <h5 class="font-weight-bold">Stochastic Modeling of Scientific Data I</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold text-uppercase align-middle">
+            STAT 516
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Fall 2023, University of Washington</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">Graduate course on statistical inference on stochastic processes.</li>
+      <li class="list-group-item"> Syllabus, Class webpage (check back again in September!)</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Gaussian and Empirical Process Theory for High-Dimensional Data</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold text-uppercase align-middle">
+            STAT 591
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" > Pacific Institute for the Mathematical Sciences</a></h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">PhD/ Graduate course.</li>
+      <li class="list-group-item"> <a href="/assets/pdf/STAT 591 - Syllabus.pdf"> Syllabus UW</a>, <a href="https://courses.pims.math.ca/tag/2022-2023/"> Syllabus PIMS</a>, Lecture notes (in progress) </li>
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
         <h5 class="font-weight-bold">Statistical Methods in Engineering and Science</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
@@ -38,6 +79,7 @@ nav_order: 3
   </div>
 </div>
 
+
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -64,48 +106,6 @@ nav_order: 3
         <a href="/assets/pdf/STAT394-Spring2022-Homework-07.pdf"> PS7</a>, 
         <a href="/assets/pdf/STAT394-Spring2022-Homework-08.pdf"> PS8</a>
         </li> 
-    </ul>
-  </div>
-</div>
-
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Gaussian and Empirical Process Theory for High-Dimensional Data</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle">
-            STAT 591
-        </span>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" > Pacific Institute for the Mathematical Sciences</a></h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">PhD/ Graduate course.</li>
-      <li class="list-group-item"> <a href="/assets/pdf/STAT 591 - Syllabus.pdf"> Syllabus UW</a>, <a href="https://courses.pims.math.ca/tag/2022-2023/"> Syllabus PIMS</a>, Lecture notes (in progress) </li>
-    </ul>
-  </div>
-</div>
-
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Stochastic Modeling of Scientific Data I</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle">
-            STAT 516
-        </span>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Fall 2023, University of Washington</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Graduate course on statistical inference on stochastic processes.</li>
-      <li class="list-group-item"> Syllabus, Class webpage (check back again in September!)</li>
     </ul>
   </div>
 </div>
