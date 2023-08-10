@@ -67,7 +67,7 @@ description: classes, workshops, and teaching material
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2023</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">PhD-level topics course. This course was part of the course offerings
+      <li class="list-group-item">Graduate special topics course. This course was part of the course offerings
       at the <a href = "https://www.pims.math.ca" > Pacific Institute for the Mathematical Sciences </a> (<a href="https://courses.pims.math.ca/tag/2022-2023/">Courses 2022-2023</a>).</li>
       <li class="list-group-item">— <a href="..."> Syllabus</a>, <a href="..."> Lecture notes</a>, <a href="...."> Class webpage</a>  </li>
     </ul>
@@ -89,7 +89,7 @@ description: classes, workshops, and teaching material
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2023</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Graduate-level course on statistical inference on stochastic processes.</li>
+      <li class="list-group-item">Graduate course on statistical inference on stochastic processes.</li>
       <li class="list-group-item">— <a href="..."> Syllabus</a>,  <a href="...."> Class webpage</a> </li>
     </ul>
   </div>
