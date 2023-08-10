@@ -16,4 +16,4 @@ The funding will allow me to support and train 1-2 graduate students for a certa
 
 For more details, check the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">official award abstract (DMS-2310578) </a>.
 
-{% include figure.html path="/assets/img/NSF_Official_logo_High_Res_1200ppi.png" title="" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy.png" title="" class="img-fluid rounded z-depth-1" %}
