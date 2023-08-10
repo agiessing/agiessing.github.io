@@ -120,7 +120,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2019</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability, statistics, and machine learning.</li>
-      <li class="list-group-item"> This course provides background to understand and produce rigorous statistical analysis including estimation, confidence intervals, hypothesis testing, regression, logistic regression and a brief introduction to machine learning. Applicability and limitations of these methods are illustrated using a variety of modern real world data sets and manipulation of the statistical software R.</li>
+      <li class="list-group-item"> This course provides background to understand and produce rigorous statistical analysis including estimation, confidence intervals, hypothesis testing, regression, logistic regression, model selection, and a brief introduction to machine learning. Applicability and limitations of these methods are illustrated using a variety of modern real world data sets and manipulation of the statistical software R.</li>
       <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
     </ul>
   </div>
@@ -140,7 +140,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">December 2018</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Four-day lecture series on empirical theory. </li>
-      <li class="list-group-item"> This short course is an introduction to empirical process theory with a focus on techniques that are relevant in modern, high-dimensional statistical problems. </li>
+      <li class="list-group-item"> This short course is an introduction to empirical process theory with focus on techniques that are useful in modern, high-dimensional statistical problems. </li>
       <li class="list-group-item">— <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm"> Syllabus</a> </li>
       <li class="list-group-item">— <a href="..."> Lecture notes</a> </li>
     </ul>
