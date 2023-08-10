@@ -25,8 +25,8 @@ description: classes, workshops, and teaching material
       <li class="list-group-item">Undergraduate-level introduction to probability and statistics.</li>
       <li class="list-group-item"> Concepts introduced in this class include the axioms of probability theory, random variables and their transformations, (joint) distributions, expectation and variance, weak law of large numbers, central limit theorem, maximum likelihood and method of moment estimators, confidence intervals (for mean and proportion), hypothesis tests and power analysis (for mean and proportion), bootstrap confidence intervals and tests, and comparison of treatments (for mean and proportion). Statistical analyses
 of data sets and implementation of statistical methods in R are an integral part.</li>
-      <li class="list-group-item">— <a href="..."> Past syllabus</a> </li>
-      <li class="list-group-item">— Past problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
+      <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
+      <li class="list-group-item">— Problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
       <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
     </ul>
   </div>
@@ -36,21 +36,26 @@ of data sets and implementation of statistical methods in R are an integral part
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Introduction to Machine Learning</h5>
+        <h5 class="font-weight-bold">Probability I</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            10-701
+        <span class="badge font-weight-bold text-uppercase align-middle">
+            MATH/ STAT 394
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Fall 2014: Teaching Assistant</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2022</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Graduate-level introduction to machine learning course taught by <a href="http://www.cs.cmu.edu/~ggordon">Geoff Gordon</a> and <a href="http://www.cs.cmu.edu/~aarti">Aarti Singh</a>.</li>
-      <li class="list-group-item">— Lecture on co-training and accuracy estimation using unlabeled data: </li>
-      <li class="list-group-item">— Lecture reviewing graphical models basics: <a href="/assets/pdf/teaching/graphical_models_review_lecture.pdf">slides</a></li>
-      <li class="list-group-item">— Introductory recitation on convexity and gradient descent: <a href="https://www.youtube.com/watch?v=eRYQN4Hty0w">video</a></li>
-      <li class="list-group-item">— <a href="/assets/pdf/teaching/some_derivations_involving_matrix_calculus_recitation.pdf">Recitation notes</a> on some derivations involving matrix calculus</li>
+      <li class="list-group-item">Undergraduate-level introduction to probability theory.</li>
+      <li class="list-group-item">— This is an introductory course in probability. In the  rst half we will discuss the
+axiomatic de nition of probability, concepts from set theory and combinatorics, conditional probability and
+independence, and discrete random variables. In the second half we will introduce continuous random variables
+and cover fundamental probability inequalities, the weak law of large numbers, and the central limit theorem.
+Along the way we will encounter many classical random variables, such as the Bernoulli, Binomial, Geometric,
+Poisson, Uniform, Exponential, Gamma, and Gaussian random variable. </li>
+      <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
+      <li class="list-group-item">— Problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
+      <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
     </ul>
   </div>
 </div>
