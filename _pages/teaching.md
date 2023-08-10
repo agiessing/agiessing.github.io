@@ -26,7 +26,7 @@ description: classes, workshops, and teaching material
       <li class="list-group-item"> The class covers the following concepts: axioms of probability theory, conditional probability, independence, Bayes' rule, discrete and continuous random variables and their transformations, joint and marginal distributions, expectation and variance, weak law of large numbers, central limit theorem, maximum likelihood and method of moment estimators, confidence intervals (for mean and proportion), hypothesis tests and power analysis (for mean and proportion), bootstrap confidence intervals and tests, and comparison of treatments (for mean and proportion).</li>
       <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
       <li class="list-group-item">— Problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
-      <li class="list-group-item">— Lab exercises (coding in R): <a href="...">Lab1, Lab2, Lab3, Lab4, Lab5, Lab6, Lab7, Lab8, Lab9</a> </li>           <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
+      <li class="list-group-item">— Lab exercises (coding in R): <a href="...">Lab1, Lab2, Lab3, Lab4, Lab5, Lab6, Lab7, Lab8, Lab9</a> </li>               <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
     </ul>
   </div>
 </div>
