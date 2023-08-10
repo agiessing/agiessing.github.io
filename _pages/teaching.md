@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
-nav: Teaching
-description: classes, workshops, and teaching material
+title: Courses
+nav: Courses
+description: courses, workshops, and lecture notes
 ---
 
 <div class="card mt-3">
