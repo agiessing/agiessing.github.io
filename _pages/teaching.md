@@ -54,7 +54,16 @@ description: classes, workshops, and teaching material
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability theory.</li>
       <li class="list-group-item"> <a href="/assets/pdf/STAT 394 - Syllabus.pdf"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1548372"> Class webpage</a>  </li>
-      <li class="list-group-item"> Problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
+       <li class="list-group-item"> Problem sets:
+        <a href="/assets/pdf/STAT394-Spring2022-Homework-01.pdf"> PS1</a>,
+        <a href="/assets/pdf/STAT394-Spring2022-Homework-02.pdf"> PS2</a>, 
+        <a href="/assets/pdf/STAT394-Spring2022-Homework-03.pdf"> PS3</a>, 
+        <a href="/assets/pdf/STAT394-Spring2022-Homework-04.pdf"> PS4</a>, 
+        <a href="/assets/pdf/STAT394-Spring2022-Homework-05.pdf"> PS5</a>, 
+        <a href="/assets/pdf/STAT394-Spring2022-Homework-06.pdf"> PS6</a>, 
+        <a href="/assets/pdf/STAT394-Spring2022-Homework-07.pdf"> PS7</a>, 
+        <a href="/assets/pdf/STAT394-Spring2022-Homework-08.pdf"> PS8</a>
+        </li> 
     </ul>
   </div>
 </div>
