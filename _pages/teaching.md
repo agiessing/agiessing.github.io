@@ -22,8 +22,7 @@ nav_order: 2
     <h6 class="font-italic mt-2 mt-sm-0">University of Washington: Fall 2021, 2022, 2023; Winter 2022, 2023; Spring 2022, 2023  </h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability and statistics.</li>
-      <li class="list-group-item"> <a href="/assets/pdf/STAT 390 - Syllabus - long version-2.pdf"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1635461"> Class webpage</a>   </li>
-      <li class="list-group-item"> Problem sets (Spring 2023):
+      <li class="list-group-item"> <a href="/assets/pdf/STAT 390 - Syllabus - long version-2.pdf"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1635461"> Class webpage</a>, Problem sets (Spring 2023):
         <a href="/assets/pdf/STAT390-Spring2023-Homework-01.pdf"> PS1</a>,
         <a href="/assets/pdf/STAT390-Spring2023-Homework-02.pdf"> PS2</a>, 
         <a href="/assets/pdf/STAT390-Spring2023-Homework-03.pdf"> PS3</a>, 
@@ -53,8 +52,7 @@ nav_order: 2
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2022, University of Washington</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability theory.</li>
-      <li class="list-group-item"> <a href="/assets/pdf/STAT 394 - Syllabus.pdf"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1548372"> Class webpage</a>  </li>
-       <li class="list-group-item"> Problem sets:
+      <li class="list-group-item"> <a href="/assets/pdf/STAT 394 - Syllabus.pdf"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1548372"> Class webpage</a>, Problem sets:
         <a href="/assets/pdf/STAT394-Spring2022-Homework-01.pdf"> PS1</a>,
         <a href="/assets/pdf/STAT394-Spring2022-Homework-02.pdf"> PS2</a>, 
         <a href="/assets/pdf/STAT394-Spring2022-Homework-03.pdf"> PS3</a>, 
