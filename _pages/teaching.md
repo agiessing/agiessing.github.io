@@ -92,7 +92,7 @@ description: classes, workshops, and teaching material
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Fall 2023</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Graduate-level course on inference on stochastic processes.</li>
       <li class="list-group-item"> Markov chains; ergodic theorem; Monte Carlo Markov Chains; Hidden Markov Models; frequentist and Bayesian inference on Markov chains. </li>
