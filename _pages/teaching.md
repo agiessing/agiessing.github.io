@@ -23,9 +23,9 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2021, 2022, 2023; Winter 2022, 2023; Spring 2022, 2023  </h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability and statistics.</li>
-      <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
-      <li class="list-group-item">— Problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
-      <li class="list-group-item">— Lab exercises (coding in R): <a href="...">Lab1, Lab2, Lab3, Lab4, Lab5, Lab6, Lab7, Lab8, Lab9</a> </li>               <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
+      <li class="list-group-item"> <a href="..."> Syllabus</a>, <a href="...."> Class webpage</a>   </li>
+      <li class="list-group-item"> Problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
+      <li class="list-group-item"> Lab exercises (coding in R): <a href="...">Lab1, Lab2, Lab3, Lab4, Lab5, Lab6, Lab7, Lab8, Lab9</a> </li>       
     </ul>
   </div>
 </div>
@@ -45,9 +45,8 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2022</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability theory.</li>
-      <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
-      <li class="list-group-item">— Problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
-      <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
+      <li class="list-group-item"> <a href="..."> Syllabus</a>, <a href="...."> Class webpage</a>  </li>
+      <li class="list-group-item"> Problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
     </ul>
   </div>
 </div>
@@ -67,9 +66,9 @@ description: classes, workshops, and teaching material
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2023</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Graduate special topics course. This course was part of the course offerings
+      <li class="list-group-item">PhD/ Graduate course. This course was part of the course offerings
       at the <a href = "https://www.pims.math.ca" > Pacific Institute for the Mathematical Sciences </a> (<a href="https://courses.pims.math.ca/tag/2022-2023/">Courses 2022-2023</a>).</li>
-      <li class="list-group-item">— <a href="..."> Syllabus</a>, <a href="..."> Lecture notes</a>, <a href="...."> Class webpage</a>  </li>
+      <li class="list-group-item"> <a href="..."> Syllabus</a>, <a href="..."> Lecture notes</a>, <a href="...."> Class webpage</a>  </li>
     </ul>
   </div>
 </div>
@@ -90,7 +89,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2023</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Graduate course on statistical inference on stochastic processes.</li>
-      <li class="list-group-item">— <a href="..."> Syllabus</a>,  <a href="...."> Class webpage</a> </li>
+      <li class="list-group-item"> <a href="..."> Syllabus</a>,  <a href="...."> Class webpage</a> </li>
     </ul>
   </div>
 </div>
@@ -113,7 +112,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2019</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability, statistics, and machine learning.</li>
-      <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
+      <li class="list-group-item"> <a href="..."> Syllabus</a> </li>
     </ul>
   </div>
 </div>
@@ -132,7 +131,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">December 2018</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Four-day lecture series on empirical theory with focus on modern techniques that are useful in high-dimensional statistical problems. </li>
-      <li class="list-group-item">— <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm"> Syllabus</a> <a href="..."> Lecture notes</a> </li>
+      <li class="list-group-item"> <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm"> Syllabus</a>, <a href="..."> Lecture notes</a> </li>
     </ul>
   </div>
 </div>
