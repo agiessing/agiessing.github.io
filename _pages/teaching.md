@@ -73,7 +73,7 @@ description: classes, workshops, and teaching material
       <li class="list-group-item"> In this course we develop elements of the theory of Gaussian and empirical processes that have proved useful for statistical inference in high-dimensional models, i.e. statistical models in which the number of parameters is much larger than the sample size. The course consists of three parts: an introduction to modern techniques in Gaussian processes, a recap of empirical classical process theory emphasizing weak convergence on metric spaces, and lastly, a discussion of Gaussian approximation, high-dimensional CLTs, and the conditional multiplier bootstrap. </li>
       <li class="list-group-item">— This course is part of the course offerings
       at the Pacific Institute for the Mathematical Sciences (PIMS: <a href="https://courses.pims.math.ca/tag/2022-2023/"> link</a>).</li>
-      <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
+      <li class="list-group-item">— <a href="..."> Lecture notes</a> </li>
       <li class="list-group-item">— Class webpage: <a href="...."> Canvas</a></li>
     </ul>
   </div>
@@ -103,9 +103,46 @@ description: classes, workshops, and teaching material
 </div>
 
 
+<h3 class="mt-4">Princeton University</h3>
 
-<h3 class="mt-4">random stuff</h3>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Fundamentals of Statistics</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold text-uppercase align-middle">
+            ORF 245
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2019</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">Undergraduate-level introduction to probability and statistics.</li>
+      <li class="list-group-item"> A first introduction to probability, statistics and machine learning. This course will provide background to understand and produce rigorous statistical analysis including estimation, confidence intervals, hypothesis testing, regression, logistic regression and a brief introduction to machine learning. Applicability and limitations of these methods will be illustrated using a variety of modern real world data sets and manipulation of the statistical software R. Precepts are based on real data analysis using R</li>
+      <li class="list-group-item">— <a href="..."> Syllabus</a> </li>
+    </ul>
+  </div>
+</div>
 
-<div class="col">
-  <a href="/assets/pdf/teaching/writing_python_libraries.pdf">Some notes</a> on writing Python libraries.
+<h3 class="mt-4">Nankai University</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Workshop on Empirical Process Theory</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">December 2018</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item"> Four-day lecture series (12 hours) on empirical theory.</li>
+      <li class="list-group-item"> In this short course we give an introduction to empirical process theory with a focus on techniques that are relevant in modern, high-dimensional statistical problems. We introduce the central ideas and techniques of empirical process theory, and discuss how these techniques are combined in order to establish limit theorems for statistical functionals. We also discuss selected problems from high-dimensional statistics.</li>
+      <li class="list-group-item">— <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm"> Syllabus</a> </li>
+      <li class="list-group-item">— <a href="..."> Lecture notes</a> </li>
+    </ul>
+  </div>
 </div>
