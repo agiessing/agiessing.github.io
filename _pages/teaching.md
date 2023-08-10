@@ -23,15 +23,15 @@ description: classes, workshops, and teaching material
       <li class="list-group-item">Undergraduate-level introduction to probability and statistics.</li>
       <li class="list-group-item"> <a href="/assets/pdf/STAT 390 - Syllabus - long version-2.pdf"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1635461"> Class webpage</a>   </li>
       <li class="list-group-item"> Problem sets (Spring 2023):
-        <a href="/assets/pdf/STAT390-Spring2023-Homework-01.pdf"> PS1 </a>,
-        <a href="/assets/pdf/STAT390-Spring2023-Homework-02.pdf"> PS2 </a>, 
-        <a href="/assets/pdf/STAT390-Spring2023-Homework-03.pdf"> PS3 </a>, 
-        <a href="/assets/pdf/STAT390-Spring2023-Homework-04.pdf"> PS4 </a>, 
-        <a href="/assets/pdf/STAT390-Spring2023-Homework-05.pdf"> PS5 </a>, 
-        <a href="/assets/pdf/STAT390-Spring2023-Homework-06.pdf"> PS6 </a>, 
-        <a href="/assets/pdf/STAT390-Spring2023-Homework-07.pdf"> PS7 </a>, 
-        <a href="/assets/pdf/STAT390-Spring2023-Homework-08.pdf"> PS8 </a>, 
-        <a href="/assets/pdf/STAT390-Spring2023-Homework-09.pdf"> PS9 </a> 
+        <a href="/assets/pdf/STAT390-Spring2023-Homework-01.pdf"> PS1</a>,
+        <a href="/assets/pdf/STAT390-Spring2023-Homework-02.pdf"> PS2</a>, 
+        <a href="/assets/pdf/STAT390-Spring2023-Homework-03.pdf"> PS3</a>, 
+        <a href="/assets/pdf/STAT390-Spring2023-Homework-04.pdf"> PS4</a>, 
+        <a href="/assets/pdf/STAT390-Spring2023-Homework-05.pdf"> PS5</a>, 
+        <a href="/assets/pdf/STAT390-Spring2023-Homework-06.pdf"> PS6</a>, 
+        <a href="/assets/pdf/STAT390-Spring2023-Homework-07.pdf"> PS7</a>, 
+        <a href="/assets/pdf/STAT390-Spring2023-Homework-08.pdf"> PS8</a>, 
+        <a href="/assets/pdf/STAT390-Spring2023-Homework-09.pdf"> PS9</a> 
         </li> 
       <li class="list-group-item"> Lab exercises (Winter 2023): <a href="...">Lab1, Lab2, Lab3, Lab4, Lab5, Lab6, Lab7, Lab8, Lab9</a> </li>       
     </ul>
