@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I'm e ited to share that the National Science Foundation will found my research on "Semiparametric Efficient and Robust Inference on High-Dimensional Data" (DMS-2310578) with $175,000 for the next three years. 
+I'm excited to share that the National Science Foundation will found my research on "Semiparametric Efficient and Robust Inference on High-Dimensional Data" (DMS-2310578) with $175,000 for the next three years. 
 
 The project aims to develop new methodology for inference on high-dimensional and incomplete data. Most data collected for scientific or industrial purposes lack information about certain features that were lost at the sampling stage due to factors such as experimental design, non-compliance, or technical problems. This issue is particularly prevalent in high-dimensional data sets, where each observation comprises many features. Failing to effectively address this issue results in inefficient and biased inference and can lead to spurious scientific discoveries.
 
