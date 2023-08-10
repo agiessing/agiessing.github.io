@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-nav: teaching
+title: Teaching
+nav: Teaching
 description: classes, workshops, and teaching material
 ---
 
