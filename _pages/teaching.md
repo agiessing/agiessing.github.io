@@ -70,7 +70,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2023</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">PhD-level topics course.</li>
-      <li class="list-group-item"> This course develops elements of the theory of Gaussian and empirical processes that have proved useful for statistical inference in high-dimensional model. The course consists of three parts: an introduction to modern techniques in Gaussian processes, a recap of empirical classical process theory emphasizing weak convergence on metric spaces, and lastly, a discussion of Gaussian approximation, high-dimensional CLTs, and the conditional multiplier bootstrap. </li>
+      <li class="list-group-item"> This course develops elements of the theory of Gaussian and empirical processes that have proved useful for statistical inference in high-dimensional model. The course consists of three parts: (1) an introduction to modern techniques in Gaussian processes, (2) a recap of empirical classical process theory, and (3) a discussion of Gaussian approximation, high-dimensional CLTs, and the conditional multiplier bootstrap. </li>
       <li class="list-group-item">— This course is part of the course offerings
       at the Pacific Institute for the Mathematical Sciences (PIMS: <a href="https://courses.pims.math.ca/tag/2022-2023/"> link</a>).</li>
       <li class="list-group-item">— <a href="..."> Lecture notes</a> </li>
