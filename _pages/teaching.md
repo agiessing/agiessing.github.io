@@ -21,7 +21,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">University of Washington: Fall 2021, 2022, 2023; Winter 2022, 2023; Spring 2022, 2023  </h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability and statistics.</li>
-      <li class="list-group-item"> <a href="/assets/pdf/STAT 390 - Syllabus - long version-2.pdf"> Syllabus</a>, <a href="...."> Class webpage</a>   </li>
+      <li class="list-group-item"> <a href="/assets/pdf/STAT 390 - Syllabus - long version-2.pdf"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1635461"> Class webpage</a>   </li>
       <li class="list-group-item"> Problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
       <li class="list-group-item"> Lab exercises (coding in R): <a href="...">Lab1, Lab2, Lab3, Lab4, Lab5, Lab6, Lab7, Lab8, Lab9</a> </li>       
     </ul>
@@ -43,7 +43,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2022, University of Washington</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level introduction to probability theory.</li>
-      <li class="list-group-item"> <a href="/assets/pdf/STAT 394 - Syllabus.pdf"> Syllabus</a>, <a href="...."> Class webpage</a>  </li>
+      <li class="list-group-item"> <a href="/assets/pdf/STAT 394 - Syllabus.pdf"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1548372"> Class webpage</a>  </li>
       <li class="list-group-item"> Problem sets: <a href="...">PS1, PS2, PS3, PS4, PS5, PS6, PS7, PS8, PS9</a> </li>
     </ul>
   </div>
@@ -87,7 +87,7 @@ description: classes, workshops, and teaching material
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2023, University of Washington</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Graduate course on statistical inference on stochastic processes.</li>
-      <li class="list-group-item"> <a href="..."> Syllabus</a>,  <a href="...."> Class webpage</a> </li>
+      <li class="list-group-item"> Syllabus, Class webpage </li>
     </ul>
   </div>
 </div>
