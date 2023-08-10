@@ -68,7 +68,7 @@ description: classes, workshops, and teaching material
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">PhD/ Graduate course. This course was part of the course offerings
       at the <a href = "https://www.pims.math.ca" > Pacific Institute for the Mathematical Sciences </a> (<a href="https://courses.pims.math.ca/tag/2022-2023/">Courses 2022-2023</a>).</li>
-      <li class="list-group-item"> <a href="/assets/pdf/STAT 591 - Syllabus.pdf"> Syllabus</a>, <a href="..."> Lecture notes (in progress)</a> </li>
+      <li class="list-group-item"> <a href="/assets/pdf/STAT 591 - Syllabus.pdf"> Syllabus</a>, Lecture notes (in progress) </li>
     </ul>
   </div>
 </div>
