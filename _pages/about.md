@@ -14,7 +14,7 @@ profile:
     <p> Seattle, WA 98195 </p>
     <p> giessing@uw.edu </p>
 
-news: true  # includes a list of news items
+news: false # includes a list of news items
 latest_posts: false # true  # includes a list of the newest posts
 selected_papers: false #true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
