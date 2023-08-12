@@ -22,11 +22,10 @@ Department of Statistics <br>
 Box 354322 <br>
 Seattle, WA 98195 </p>
 
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/giessing-7xc/30min'});return false;"></a>
-<!-- Calendly link widget end -->
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/giessing-7xc/30min" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
 
 <div class="social">
   <div class="contact-icons">
