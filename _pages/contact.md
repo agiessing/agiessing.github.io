@@ -58,7 +58,7 @@ nav_order: 4
   <div class="column right">
 
       <!-- Calendly inline widget begin -->
-      <div class="calendly-inline-widget" data-url="https://calendly.com/giessing-7xc/30min?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+      <div class="calendly-inline-widget" data-url="https://calendly.com/giessing-7xc/30min?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:1400px;"></div>
       <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
       <!-- Calendly inline widget end -->
     
