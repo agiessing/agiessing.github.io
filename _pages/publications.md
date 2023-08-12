@@ -6,6 +6,8 @@ description: publications and pre-prints in reverse chronological order
 nav: true
 nav_order: 2
 ---
+
+<article>
 <!-- _pages/publications.md -->
 <div class="publications">
 {% bibliography -f {{ site.scholar.bibliography }} %}
@@ -18,4 +20,4 @@ nav_order: 2
           {%- endif %}
 
 </div>
-
+</article>
