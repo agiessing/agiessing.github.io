@@ -7,20 +7,20 @@ nav: true
 nav_order: 4
 ---
 
-***E-mail:***
-giessing@uw.edu
+**E-mail:**
+<p> giessing@uw.edu </p>
 
-***Office:***
-B-308 Padelford Hall
-4110 E Stevens Way NE
-Seattle, WA 98195
+**Office:**
+<p> B-308 Padelford Hall </p>
+<p> 4110 E Stevens Way NE </p>
+<p> Seattle, WA 98195 </p>
 
-***Mailing address:***
-Alexander Giessing
-University of Washington
-Department of Statistics
-Box 354322
-Seattle, WA 98195-4322
+**Mailing address:**
+<p> Alexander Giessing </p>
+<p> University of Washington </p>
+<p> Department of Statistics </p>
+<p> Box 354322 </p>
+<p> Seattle, WA 98195-4322 </p>
 
 <div class="social">
   <div class="contact-icons">
