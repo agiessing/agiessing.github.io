@@ -8,14 +8,13 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
+
 <div class="publications">
-
-Preprints
-{%- include selected_papers.html %}
-
-Journal and Conference Articles
-{% bibliography -f {{ site.scholar.bibliography }} %}
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* %}
+          </div>
 
 
+<div class="publications">
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=false]* %}
 </div>
 
