@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    #<p> B-308 Padelford Hall </p> 
-    #<p> University of Washington </p>
-    #<p> Seattle, WA 98195 </p>
-    #<p> giessing@uw.edu </p>
+  address: 
 
 news: false # includes a list of news items
 latest_posts: false # true  # includes a list of the newest posts
