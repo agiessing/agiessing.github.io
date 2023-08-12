@@ -125,7 +125,7 @@ nav_order: 3
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2019, Princeton University</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> Undergraduate coruse, introduction to probability, statistics, and machine learning.</li>
+      <li class="list-group-item"> Undergraduate course, introduction to probability, statistics, and machine learning.</li>
       <li class="list-group-item"> <a href="/assets/pdf/ORF 245_Syllabus_Updated.pdf" target="_blank"> Syllabus</a> </li>
     </ul>
   </div>
