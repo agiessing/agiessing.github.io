@@ -126,7 +126,7 @@ nav_order: 3
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2019, Princeton University</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Undergraduate course, introduction to probability, statistics, and machine learning.</li>
-      <li class="list-group-item"> <a href="/assets/pdf/ORF 245_Syllabus_Updated.pdf" target="_blank"> Syllabus</a> </li>
+      <li class="list-group-item"> <a href="/assets/pdf/ORF 245_Syllabus_Updated.pdf" target="_new"> Syllabus</a> </li>
     </ul>
   </div>
 </div>
@@ -143,7 +143,7 @@ nav_order: 3
     <h6 class="font-italic mt-2 mt-sm-0">December 2018, Nankai University</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Four-day lecture series. </li>
-      <li class="list-group-item"> <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_blank"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_blank"> Lecture notes</a> </li>
+      <li class="list-group-item"> <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_blank"> Lecture notes</a> </li>
     </ul>
   </div>
 </div>
