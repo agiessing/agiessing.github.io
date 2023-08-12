@@ -26,7 +26,7 @@ Seattle, WA 98195 </p>
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/giessing-7xc/30min'});return false;"></a>
-<!-- Calendly link widget end -->
+<!-- Calendly link widget end -->>
 
 <div class="social">
   <div class="contact-icons">
