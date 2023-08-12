@@ -1,13 +1,11 @@
 ---
 layout: page
-permalink: /conact/
+permalink: /contact/
 title: Contact
 description: 
 nav: true
 nav_order: 4
 ---
-
-text-align: center
 
 <p> <span class="font-weight-bold">E-mail:</span> <br>
 giessing@uw.edu </p>
