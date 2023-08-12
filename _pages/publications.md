@@ -9,12 +9,12 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-Preprints
+<h1 class="post-title"> Preprints </h1>
 <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[preprint=true]* %}
           </div>
 
-Journal and Conference Articles
+<h1 class="post-title"> Journal and Conference Articles </h1>
 <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[preprint=false]* %}
 </div>
