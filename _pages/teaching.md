@@ -71,10 +71,10 @@ nav_order: 3
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" target="_blank"> Pacific Institute for the Mathematical Sciences</a></h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" target="_new"> Pacific Institute for the Mathematical Sciences</a></h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">PhD/ Graduate course.</li>
-      <li class="list-group-item"> <a href="/assets/pdf/STAT 591 - Syllabus.pdf" target="_blank"> Syllabus UW</a>, <a href="https://courses.pims.math.ca/tag/2022-2023/" target="_blank"> Syllabus PIMS</a>, Lecture notes (in progress) </li>
+      <li class="list-group-item"> <a href="/assets/pdf/STAT 591 - Syllabus.pdf" target="_new"> Syllabus UW</a>, <a href="https://courses.pims.math.ca/tag/2022-2023/" target="_new"> Syllabus PIMS</a>, Lecture notes (in progress) </li>
     </ul>
   </div>
 </div>
@@ -96,7 +96,7 @@ nav_order: 3
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2022, University of Washington</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Undergraduate course, introduction to probability theory.</li>
-      <li class="list-group-item"> <a href="/assets/pdf/STAT 394 - Syllabus.pdf" target="_blank"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1548372" target="_blank"> Class webpage</a> </li>
+      <li class="list-group-item"> <a href="/assets/pdf/STAT 394 - Syllabus.pdf" target="_new"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1548372" target="_new"> Class webpage</a> </li>
       <li class="list-group-item"> Problem sets:
         <a href="/assets/pdf/STAT394-Spring2022-Homework-01.pdf"> PS1</a>,
         <a href="/assets/pdf/STAT394-Spring2022-Homework-02.pdf"> PS2</a>, 
@@ -143,7 +143,7 @@ nav_order: 3
     <h6 class="font-italic mt-2 mt-sm-0">December 2018, Nankai University</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Four-day lecture series. </li>
-      <li class="list-group-item"> <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_blank"> Lecture notes</a> </li>
+      <li class="list-group-item"> <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lecture notes</a> </li>
     </ul>
   </div>
 </div>
