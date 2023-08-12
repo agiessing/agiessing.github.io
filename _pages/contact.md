@@ -7,15 +7,15 @@ nav: true
 nav_order: 4
 ---
 
-<p> <span class="font-weight-bold"> E-mail: </span> <br>
+<p> <span class="font-weight-bold">E-mail:</span> <br>
 giessing@uw.edu </p>
 
-**Office:** <br>
+<p> <span class="font-weight-bold">Office:</span> <br>
 <p> B-308 Padelford Hall <br>
 4110 E Stevens Way NE <br>
 Seattle, WA 98195 </p>
 
-<p> **Mailing address:** <br>
+<p> <span class="font-weight-bold">Mailing address:</span> <br>
 Alexander Giessing <br>
 University of Washington <br>
 Department of Statistics <br>
