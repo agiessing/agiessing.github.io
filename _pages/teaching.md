@@ -11,12 +11,7 @@ nav_order: 3
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Stochastic Modeling of Scientific Data I</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle">
-            STAT 516
-        </span>
+        <h5 class="font-weight-bold">STAT 516: Stochastic Modeling of Scientific Data I</h5>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2023, University of Washington</h6>
@@ -32,12 +27,7 @@ nav_order: 3
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Statistical Methods in Engineering and Science</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle">
-            STAT 390
-        </span>
+        <h5 class="font-weight-bold"> STAT 390: Statistical Methods in Engineering and Science</h5>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0"> Fall 2021, 2022, 2023, Winter 2022, 2023, Spring 2022, 2023, University of Washington</h6>
@@ -63,12 +53,7 @@ nav_order: 3
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Gaussian and Empirical Process Theory for High-Dimensional Data</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle">
-            STAT 591
-        </span>
+        <h5 class="font-weight-bold">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data</h5>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" target="_new"> Pacific Institute for the Mathematical Sciences</a></h6>
@@ -85,12 +70,7 @@ nav_order: 3
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Probability I</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle">
-            STAT 394
-        </span>
+        <h5 class="font-weight-bold">STAT394: Probability I</h5>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2022, University of Washington</h6>
@@ -115,12 +95,7 @@ nav_order: 3
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Fundamentals of Statistics</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle">
-            ORF 245
-        </span>
+        <h5 class="font-weight-bold"> ORF 245: Fundamentals of Statistics</h5>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2019, Princeton University</h6>
@@ -136,8 +111,6 @@ nav_order: 3
     <div class="row">
       <div class="col-sm-10">
         <h5 class="font-weight-bold">Workshop on Empirical Process Theory</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">December 2018, Nankai University</h6>
