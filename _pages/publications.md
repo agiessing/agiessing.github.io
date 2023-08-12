@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: publications and pre-prints in reverse chronological order
+description: preprints and published articles in reverse chronological order
 nav: true
 nav_order: 2
 ---
@@ -10,8 +10,13 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+Preprints
 {%- include selected_papers.html %}
+
+Journal and Conference Articles
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
 
 </div>
 
