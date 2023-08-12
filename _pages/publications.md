@@ -11,11 +11,11 @@ nav_order: 2
 
 Preprints
 <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* %}
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[preprint=true]* %}
           </div>
 
 Journal and Conference Articles
 <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=false]* %}
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[preprint=false]* %}
 </div>
 
