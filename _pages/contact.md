@@ -23,7 +23,7 @@ Box 354322 <br>
 Seattle, WA 98195 </p>
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/giessing-7xc/30min" style="min-width:320px;height:700px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/giessing-7xc/30min" style="min-width:700px;height:320px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
