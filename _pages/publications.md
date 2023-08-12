@@ -10,16 +10,8 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
- <article>
 {% bibliography -f {{ site.scholar.bibliography }} %}
-
-
- <!-- Selected papers -->
-          {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
-            {%- include selected_papers.html %}
-          {%- endif %}
- </article>
+{%- include selected_papers.html %}
 
 </div>
 
