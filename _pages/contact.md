@@ -23,12 +23,12 @@ Box 354322
 Seattle, WA 98195-4322
 
 <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
+  <div class="contact-icons">
+    {% include social.html %}
+  </div>
 
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
+  <div class="contact-note">
+    {{ site.contact_note }}
+  </div>
 
-            </div>
+</div>
