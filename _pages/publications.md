@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: none # page
 permalink: /publications/
 title: Publications
-description: # preprints and published articles in reverse chronological order
+description: preprints and published articles in reverse chronological order
 nav: true
 nav_order: 2
 ---
