@@ -11,7 +11,6 @@ nav_order: 4
   <div class="column">
     <p> <span class="font-weight-bold">E-mail:</span> <br>
     giessing@uw.edu </p>
-    
     <p> <span class="font-weight-bold">Office:</span> <br>
     B-308 Padelford Hall <br>
     4110 E Stevens Way NE <br>
