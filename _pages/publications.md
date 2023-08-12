@@ -14,7 +14,6 @@ Preprints
 {%- include selected_papers.html %}
 
 Journal and Conference Articles
-
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 
