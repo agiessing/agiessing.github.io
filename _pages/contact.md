@@ -11,7 +11,7 @@ nav_order: 4
 giessing@uw.edu </p>
 
 <p> <span class="font-weight-bold">Office:</span> <br>
-<p> B-308 Padelford Hall <br>
+B-308 Padelford Hall <br>
 4110 E Stevens Way NE <br>
 Seattle, WA 98195 </p>
 
