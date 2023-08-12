@@ -20,7 +20,7 @@ Alexander Giessing <br>
 University of Washington <br>
 Department of Statistics <br>
 Box 354322 <br>
-Seattle, WA 98195-4322 </p>
+Seattle, WA 98195 </p>
 
 <div class="social">
   <div class="contact-icons">
