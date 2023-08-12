@@ -9,7 +9,6 @@ nav_order: 4
 
 <div class="contact-container">
   <div class="column">
-    
     <p> <span class="font-weight-bold">E-mail:</span> <br>
     giessing@uw.edu </p>
     
