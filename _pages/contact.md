@@ -27,7 +27,8 @@ nav_order: 4
     Department of Statistics <br>
     Box 354322 <br>
     Seattle, WA 98195 </p>
-  
+
+  <p> <a href = "https://calendly.com/giessing-7xc/30min" target="_new"> Schedule time with me </a> </p>
   </div>
   
 </div>
