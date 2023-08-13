@@ -7,15 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-<h1 class="post-title"> Lecture Notes </h1>
-<ul class="card-text font-weight-light list-group list-group-flush"> 
-      <li class="list-group-item"> 
-      <p> <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" class="font-weight-bolder" target="_new"> Lectures on Empirical Process Theory</a> <br>
-             <span class="font-weight-bolder"> Gaussian and Empirical Process Theory for High-Dimensional Data </span> (in progress, check back in October) </p>
-      </li>
-</ul>
-<br>
-
 <h1 class="post-title"> Courses </h1>
 <ul class="font-weight-light list-group list-group-flush"> 
       <li class="list-group-item"> 
@@ -49,3 +40,14 @@ nav_order: 3
       <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lecture Notes</a> </p>
       </li>
 </ul>  
+
+<br>
+
+<h1 class="post-title"> Lecture Notes </h1>
+<ul class="card-text font-weight-light list-group list-group-flush"> 
+      <li class="list-group-item"> 
+      <p> <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" class="font-weight-bolder" target="_new"> Lectures on Empirical Process Theory</a> <br>
+             <span class="font-weight-bolder"> Gaussian and Empirical Process Theory for High-Dimensional Data </span> (in progress, check back in October) </p>
+      </li>
+</ul>
+
