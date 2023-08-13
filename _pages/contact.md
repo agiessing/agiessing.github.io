@@ -5,10 +5,8 @@ title: Contact
 description: 
 nav: true
 nav_order: 4
-
 ---
 
-</div>
 <div class="row">
     <div class="col-sm-4">
       <p> <span class="font-weight-bold">E-mail:</span> <br>
@@ -39,3 +37,4 @@ nav_order: 4
   <div class="contact-note">
     {{ site.contact_note }}
   </div>
+</div>
