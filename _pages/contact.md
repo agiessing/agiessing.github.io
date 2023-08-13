@@ -10,7 +10,7 @@ nav_order: 4
 
 
 <div class="row">    
-    <div class="col-sm-4 col-sm-6">
+    <div class="col-sm-4 col-sx-6">
       <p> <span class="font-weight-bolder">E-mail:</span> <br>
       giessing@uw.edu </p>
       <p> <span class="font-weight-bolder">Office:</span> <br>
@@ -18,7 +18,7 @@ nav_order: 4
       4110 E Stevens Way NE <br>
       Seattle, WA 98195 </p> 
     </div>
-    <div class="col-sm-4 col-sm-6">
+    <div class="col-sm-4 col-sx-6">
       <p> <span class="font-weight-bolder">Mailing address:</span> <br>
       Alexander Giessing <br>
       University of Washington <br>
@@ -26,7 +26,7 @@ nav_order: 4
       Box 354322 <br>
       Seattle, WA 98195 </p>  
     </div>
-    <div class="col-sm-4 col-sm-6">
+    <div class="col-sm-4 col-sx-6">
       <p> <span class="font-weight-bolder">Schedule time with me</span> <br>
       <a href = "https://calendly.com/giessing-7xc/30min" target="_new"> 30 Minutes Chat </a> </p>
     </div>
