@@ -41,7 +41,6 @@ nav_order: 3
       </li>
 </ul>  
 
-<br>
 
 <h1 class="post-title"> Lecture Notes </h1>
 <ul class="card-text font-weight-light list-group list-group-flush"> 
