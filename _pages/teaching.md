@@ -7,9 +7,9 @@ nav: true
 nav_order: 3
 ---
       <div class="row">
-      <div class="col-sm-1">
-        </div>
-        <div class="col-sm-9">
+      <div class="col-sm-1 space">
+      </div>
+        <div class="col-sm-9 text">
         <h1 class="post-title"> Courses </h1>
 <ul class="font-weight-light list-group list-group-flush"> 
       <li class="list-group-item"> 
