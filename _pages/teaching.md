@@ -26,25 +26,21 @@ nav_order: 3
       <a href="/assets/pdf/STAT 591 - Syllabus.pdf" target="_new"> Syllabus UW</a> <br>
       Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" target="_new"> Pacific Institute for the Mathematical Sciences</a> (<a href="https://courses.pims.math.ca/tag/2022-2023/" target="_new"> Syllabus PIMS</a>) </p>
       </li>
-      
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold"> STAT 390: Statistical Methods in Engineering and Science </span> <br>
       Syllabus, Class webpage (check back again in September!) <br>
       Fall 2021, 2022, 2023, Winter 2022, 2023, Spring 2022, 2023, University of Washington </p>
       </li>
-      
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold">  STAT/ MATH 394: Probability I </span> <br> 
       <a href="/assets/pdf/STAT 394 - Syllabus.pdf" target="_new"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1548372" target="_new"> Class webpage</a> <br>
       Spring 2022, University of Washington </p>
       </li>
-      
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold"> ORF 245: Fundamentals of Statistics </span> <br>
       <a href="/assets/pdf/ORF 245_Syllabus_Updated.pdf" target="_new"> Syllabus</a> <br>
       Spring 2019, Princeton University </p>
       </li>
-      
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold"> Workshop on Empirical Process Theory </span> <br>
       Four-day lecture series, <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lecture notes</a> <br>
