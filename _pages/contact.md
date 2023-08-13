@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<div>    
+<div class="row">    
     <div class="col-sm-4">
       <p> <span class="font-weight-bolder">E-mail:</span> <br>
       giessing@uw.edu </p>
