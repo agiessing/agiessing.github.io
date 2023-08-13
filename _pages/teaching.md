@@ -6,8 +6,11 @@ description: courses, workshops, and lecture notes
 nav: true
 nav_order: 3
 ---
-
-<h1 class="post-title"> Courses </h1>
+      <div class="row">
+      <div class="col-sm-1 >
+        </div>
+        <div class="col-sm-9">
+        <h1 class="post-title"> Courses </h1>
 <ul class="font-weight-light list-group list-group-flush"> 
       <li class="list-group-item"> 
       <p> <span class="font-weight-bolder">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data </span> <br>
@@ -40,6 +43,8 @@ nav_order: 3
       <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lecture Notes</a> </p>
       </li>
 </ul>  
+</div>
+</div>
 <br>
 
 <h1 class="post-title"> Lecture Notes </h1>
