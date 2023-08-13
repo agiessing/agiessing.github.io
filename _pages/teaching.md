@@ -18,7 +18,7 @@ nav_order: 3
 <ul class="font-weight-light list-group list-group-flush"> 
       <li class="list-group-item"> 
       <p>  <span class="font-weight-bold">STAT 516: Stochastic Modeling of Scientific Data I</span> <br>
-      Syllabus, Class webpage (check back again in September!) <br>
+      Syllabus, Class Webpage (check back again in September!) <br>
       <h6 class="font-italic mt-2 mt-sm-0">Fall 2023, University of Washington </h6> </p>
       </li>
       <li class="list-group-item"> 
@@ -28,7 +28,7 @@ nav_order: 3
       </li>
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold"> STAT 390: Statistical Methods in Engineering and Science </span> <br>
-      Syllabus, Class webpage (check back again in September!) <br>
+      Syllabus, Class Webpage (check back again in September!) <br>
        <h6 class="font-italic mt-2 mt-sm-0">Fall 2021, 2022, 2023, Winter 2022, 2023, Spring 2022, 2023, University of Washington  </h6> </p>
       </li>
       <li class="list-group-item"> 
@@ -43,7 +43,7 @@ nav_order: 3
       </li>
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold"> Workshop on Empirical Process Theory </span> <br>
-      <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lecture notes</a> <br>
+      <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lecture Notes</a> <br>
        <h6 class="font-italic mt-2 mt-sm-0">December 2018, Nankai University  </h6> </p>
       </li>
 </ul>   
