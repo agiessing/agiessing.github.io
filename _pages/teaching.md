@@ -16,7 +16,17 @@ nav_order: 3
 <br>
 
 <h1 class="post-title"> Courses </h1>
+<ul class="font-weight-light list-group list-group-flush"> 
+      <li class="list-group-item"> Stochastic Modeling of Scientific Data I (STAT 516), graduate course, statistical inference on stochastic processes, Syllabus, Class webpage (check back again in September!), Fall 2023, University of Washington </li>
+      <li class="list-group-item"> Gaussian and Empirical Process Theory for High-Dimensional Data (STAT 591), graduate course,<a href="/assets/pdf/STAT 591 - Syllabus.pdf" target="_new"> Syllabus UW</a>, Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" target="_new"> Pacific Institute for the Mathematical Sciences</a> (<a href="https://courses.pims.math.ca/tag/2022-2023/" target="_new"> Syllabus PIMS</a>) </li>
+      
+      <li class="list-group-item"> Statistical Methods in Engineering and Science (STAT 390), undergraduate course, introduction to probability and statistics, Syllabus, Class webpage (check back again in September!), Fall 2021, 2022, 2023, Winter 2022, 2023, Spring 2022, 2023, University of Washington </li>
+      <li class="list-group-item"> Probability I (STAT 394/ MATH 394), undergraduate course, introduction to probability theory,<a href="/assets/pdf/STAT 394 - Syllabus.pdf" target="_new"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1548372" target="_new"> Class webpage</a>, Spring 2022, University of Washington</li>
+      <li class="list-group-item"> Fundamentals of Statistics (ORF 245), undergraduate course, introduction to probability, statistics, and machine learning, <a href="/assets/pdf/ORF 245_Syllabus_Updated.pdf" target="_new"> Syllabus</a>, Spring 2019, Princeton University </li>
+      <li class="list-group-item"> Workshop on Empirical Process Theory, four-day lecture series, <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lecture notes</a>, December 2018, Nankai University </li>
+</ul>   
 
+<br>
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
