@@ -21,7 +21,6 @@ nav_order: 3
       Syllabus, Class webpage (check back again in September!) <br>
       Fall 2023, University of Washington </p>
       </li>
-      
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data </span> <br>
       <a href="/assets/pdf/STAT 591 - Syllabus.pdf" target="_new"> Syllabus UW</a> <br>
