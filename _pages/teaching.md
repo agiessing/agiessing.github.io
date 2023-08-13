@@ -19,7 +19,7 @@ nav_order: 3
       <li class="list-group-item"> 
       <p>  <span class="font-weight-bold">STAT 516: Stochastic Modeling of Scientific Data I</span> <br>
       Syllabus, Class Webpage (check back again in September!) <br>
-      <h6 class="font-italic">Fall 2023, University of Washington </h6> </p>
+      <span class="font-italic">Fall 2023, University of Washington </span> </p>
       </li>
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data </span> <br>
