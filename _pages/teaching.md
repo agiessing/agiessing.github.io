@@ -9,9 +9,10 @@ nav_order: 3
 
 
 <h1 class="post-title"> Lecture Notes </h1>
-      <li class="list-group-item"> <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lectures on Empirical Process Theory</a> </li>
+<ul> <li class="list-group-item"> <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lectures on Empirical Process Theory</a> </li>
       <li class="list-group-item"> Gaussian and Empirical Process Theory for High-Dimensional Data (in progress)</li>
       <li class="list-group-item"> Inference on Stochastic Process (in progress)</li>
+</ul>   
 <br>
 <h1 class="post-title"> Courses </h1>
 
