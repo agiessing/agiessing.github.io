@@ -43,7 +43,7 @@ nav_order: 3
       </li>
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold"> Workshop on Empirical Process Theory </span> <br>
-      Four-day lecture series, <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lecture notes</a> <br>
+      <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lecture notes</a> <br>
       December 2018, Nankai University </p>
       </li>
 </ul>   
