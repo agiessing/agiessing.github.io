@@ -9,15 +9,15 @@ nav_order: 4
 
 <div class="row">
     <div class="col-sm-4">
-      <p> <span class="font-weight-bold">E-mail:</span> <br>
+      <p> <span class="font-weight-bolder">E-mail:</span> <br>
       giessing@uw.edu </p>
-      <p> <span class="font-weight-bold">Office:</span> <br>
+      <p> <span class="font-weight-bolder">Office:</span> <br>
       B-308 Padelford Hall <br>
       4110 E Stevens Way NE <br>
       Seattle, WA 98195 </p> 
     </div>
     <div class="col-sm-4">
-      <p> <span class="font-weight-bold">Mailing address:</span> <br>
+      <p> <span class="font-weight-bolder">Mailing address:</span> <br>
       Alexander Giessing <br>
       University of Washington <br>
       Department of Statistics <br>
@@ -25,7 +25,7 @@ nav_order: 4
       Seattle, WA 98195 </p>  
     </div>
     <div class="col-sm-4">
-      <p> <span class="font-weight-bold">Schedule time with me</span> <br>
+      <p> <span class="font-weight-bolder">Schedule time with me</span> <br>
       <a href = "https://calendly.com/giessing-7xc/30min" target="_new"> 30 Minutes Chat </a> </p>
     </div>
 </div>
