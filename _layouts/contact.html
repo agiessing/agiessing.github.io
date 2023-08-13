@@ -22,13 +22,25 @@
         <div class="row">
           <!-- main content area -->
           <div class="col-sm-4">
-            {{ content }}
+            {%- if page.email.address %}
+            <div class="address">
+              {{ page.email.address }}
+            </div>
+            {%- endif %}
           </div>
           <div class="col-sm-4">
-            {{ content }}
+            {%- if page.office.address %}
+            <div class="address">
+              {{ page.office.address }}
+            </div>
+            {%- endif %}
           </div>
           <div class="col-sm-4">
-            {{ content }}
+            {%- if page.mailing.address %}
+            <div class="address">
+              {{ page.mailing.address }}
+            </div>
+            {%- endif %}
           </div>
           <!-- sidebar, which will move to the top on a small screen -->
           <div class="col-sm-3">
