@@ -40,7 +40,7 @@ nav_order: 3
       <a href="https://stat.nankai.edu.cn/2018/1126/c12333a129526/page.htm" target="_new"> Syllabus</a>, <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lecture Notes</a> </p>
       </li>
 </ul>  
-
+<br>
 
 <h1 class="post-title"> Lecture Notes </h1>
 <ul class="card-text font-weight-light list-group list-group-flush"> 
