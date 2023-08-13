@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: page
 permalink: /teaching/
 title: Teaching
-description: courses, workshops, and lecture notes
+description:
 nav: true
 nav_order: 3
 ---
-<h1 class="post-title"> Courses </h1>
-<br>
+
 <hr> 
 
 <div class="row">
