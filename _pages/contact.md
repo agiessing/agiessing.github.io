@@ -21,10 +21,8 @@ mailing:
       University of Washington <br>
       Department of Statistics <br>
       Box 354322 <br>
-      Seattle, WA 98195
-      
-meeting:
-   link: https://calendly.com/giessing-7xc/30min
+      Seattle, WA 98195 <br> 
+      https://calendly.com/giessing-7xc/30min
 ---
 
 <p> <span class="font-weight-bold">E-mail:</span> <br>
