@@ -6,7 +6,6 @@ description: courses, workshops, and lecture notes
 nav: true
 nav_order: 3
 ---
- background-color: var(--global-card-bg-color); border-color: var(--global-divider-color)
 
 <h1 class="post-title"> Lecture Notes </h1>
 <ul class="card-text font-weight-light list-group list-group-flush"> 
@@ -17,7 +16,6 @@ nav_order: 3
 
 <h1 class="post-title"> Courses </h1>
 <ul class="font-weight-light list-group list-group-flush"> 
-      
       <li class="list-group-item"> 
       <p>  <span class="font-weight-bold">STAT 516: Stochastic Modeling of Scientific Data I</span> <br>
       Syllabus, Class webpage (check back again in September!) <br>
