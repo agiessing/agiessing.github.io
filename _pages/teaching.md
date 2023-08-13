@@ -23,8 +23,8 @@ nav_order: 3
       </li>
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data </span> <br>
-      <a href="/assets/pdf/STAT 591 - Syllabus.pdf" target="_new"> Syllabus UW</a> <br>
-      Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" target="_new"> Pacific Institute for the Mathematical Sciences</a> (<a href="https://courses.pims.math.ca/tag/2022-2023/" target="_new">Syllabus PIMS</a>) </p>
+      <a href="/assets/pdf/STAT 591 - Syllabus.pdf" target="_new"> Syllabus UW</a>, <a href="https://courses.pims.math.ca/tag/2022-2023/" target="_new">Syllabus PIMS</a> <br>
+      Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" target="_new"> Pacific Institute for the Mathematical Sciences (PIMS)</a></p>
       </li>
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold"> STAT 390: Statistical Methods in Engineering and Science </span> <br>
