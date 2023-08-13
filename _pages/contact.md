@@ -26,7 +26,8 @@ nav_order: 4
     </div>
     <div class="col-sm-4">
       <p> <a tyle="font-weight:bold" href = "https://calendly.com/giessing-7xc/30min" target="_new"> Schedule time with me </a> </p>
-  </div>
+    </div>
+</div>
 
 
 <div class="social">
