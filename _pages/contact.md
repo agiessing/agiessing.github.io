@@ -6,16 +6,16 @@ description:
 nav: true
 nav_order: 4
 
-Email:
+email:
   address: giessing@uw.edu
   
-Office:
+office:
    address: >
       B-308 Padelford Hall <br>
       4110 E Stevens Way NE <br>
       Seattle, WA 98195
       
-Mailing:
+mailing:
    address: >
       Alexander Giessing <br>
       University of Washington <br>
@@ -23,7 +23,7 @@ Mailing:
       Box 354322 <br>
       Seattle, WA 98195
       
-Meeting:
+meeting:
    link: https://calendly.com/giessing-7xc/30min
 ---
 
