@@ -26,3 +26,4 @@ Ongoing Research Themes:
  * Empirical Process Theory
 
 Before joining the University of Washington, I was a postdoc at Princeton University. I hold a PhD in Statistics from the University of Michigan, a MSc in Econometrics and Mathematical Economics from LSE (UK), and a BSc in Economics from the University of Bonn (DE).
+:AG:
