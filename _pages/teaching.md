@@ -23,7 +23,7 @@ nav_order: 3
       </li>
       <li class="list-group-item"> 
       <p>  <span class="font-weight-bold">STAT 516: Stochastic Modeling of Scientific Data I</span> <br>
-      Syllabus, Class Webpage (check back again in September!) <br>
+      Syllabus, Class Webpage<br>
       Fall 2023, University of Washington </p>
       </li>
       <li class="list-group-item"> 
