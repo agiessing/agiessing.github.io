@@ -12,7 +12,7 @@ nav_order: 3
             </div>
             <div class="col-sm-9 text">
                   <ul class="font-weight-light list-group list-group-flush"> 
-                        <li class="list-group-item"> 
+                        <li> 
                         <p> <span class="font-weight-bolder">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data </span> <br>
                         Spring 2023, University of Washington and Pacific Institute for the Mathematical Sciences <a href = "https://www.pims.math.ca" target="_new">(PIMS)</a> <br>
                         <a href="/assets/pdf/STAT 591 - Syllabus.pdf" target="_new"> Syllabus</a>, <a href="https://courses.pims.math.ca/tag/2022-2023/" target="_new">Syllabus PIMS</a>, <a href="https://canvas.uw.edu/courses/1635483" target="_new"> Class Webpage</a> </p>
