@@ -2,7 +2,10 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+        
+      <!-- Aug 13
+            
+      <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
           <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.preview }}">
@@ -26,6 +29,8 @@
           {%- endif -%}
         {%- endif -%}
         </div>
+            
+        -->
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
