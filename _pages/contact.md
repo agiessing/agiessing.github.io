@@ -8,11 +8,13 @@ nav_order: 4
 
 Email:
   address: giessing@uw.edu
+  
 Office:
    address: >
       B-308 Padelford Hall <br>
       4110 E Stevens Way NE <br>
       Seattle, WA 98195
+      
 Mailing:
    address: >
       Alexander Giessing <br>
@@ -20,6 +22,7 @@ Mailing:
       Department of Statistics <br>
       Box 354322 <br>
       Seattle, WA 98195
+      
 Meeting:
    link: https://calendly.com/giessing-7xc/30min
 ---
