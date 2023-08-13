@@ -28,7 +28,7 @@ nav_order: 3
       </li>
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold"> STAT 390: Statistical Methods in Engineering and Science </span> <br>
-      <a href="/assets/pdf/STAT 390 - Syllabus.pdf" target="_new"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1635461" target="_new"> Class Webpage</a> <br>
+      <a href="/assets/pdf/STAT 390 - Syllabus - long version - 2.pdf" target="_new"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1635461" target="_new"> Class Webpage</a> <br>
        <h6 class="font-italic">Fall 2021, 2022, 2023, Winter 2022, 2023, Spring 2022, 2023, University of Washington  </h6> </p>
       </li>
       <li class="list-group-item"> 
