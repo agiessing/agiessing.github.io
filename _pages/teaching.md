@@ -7,6 +7,9 @@ nav: true
 nav_order: 3
 ---
 <h1 class="post-title"> Courses </h1>
+<br>
+<hr> 
+
 <div class="row">
       <div class="col-sm-1 space">
             </div>
