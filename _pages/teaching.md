@@ -9,15 +9,19 @@ nav_order: 3
 
 
 <h1 class="post-title"> Lecture Notes </h1>
+<div class="row">
 <ul class="font-weight-light list-group list-group-flush"> 
       <li class="list-group-item"> <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lectures on Empirical Process Theory</a> </li>
       <li class="list-group-item"> Gaussian and Empirical Process Theory for High-Dimensional Data (in progress)</li>
-</ul>   
+</ul>
+</div>
 <br>
 
 <h1 class="post-title"> Courses </h1>
 <ul class="font-weight-light list-group list-group-flush"> 
-      <li class="list-group-item"> Stochastic Modeling of Scientific Data I (STAT 516), graduate course, statistical inference on stochastic processes, Syllabus, Class webpage (check back again in September!), Fall 2023, University of Washington </li>
+      
+      <li class="list-group-item"> Stochastic Modeling of Scientific Data I (STAT 516), graduate course, Syllabus, Class webpage (check back again in September!), Fall 2023, University of Washington </li>
+      
       <li class="list-group-item"> Gaussian and Empirical Process Theory for High-Dimensional Data (STAT 591), graduate course,<a href="/assets/pdf/STAT 591 - Syllabus.pdf" target="_new"> Syllabus UW</a>, Spring 2023, University of Washington and <a href = "https://www.pims.math.ca" target="_new"> Pacific Institute for the Mathematical Sciences</a> (<a href="https://courses.pims.math.ca/tag/2022-2023/" target="_new"> Syllabus PIMS</a>) </li>
       
       <li class="list-group-item"> Statistical Methods in Engineering and Science (STAT 390), undergraduate course, introduction to probability and statistics, Syllabus, Class webpage (check back again in September!), Fall 2021, 2022, 2023, Winter 2022, 2023, Spring 2022, 2023, University of Washington </li>
