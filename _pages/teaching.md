@@ -33,7 +33,7 @@ nav_order: 3
       </li>
       <li class="list-group-item"> 
       <p> <span class="font-weight-bold">  STAT/ MATH 394: Probability I </span> <br> 
-      <a href="/assets/pdf/STAT 394 - Syllabus.pdf" target="_new"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1548372" target="_new"> Class webpage</a> <br>
+      <a href="/assets/pdf/STAT 394 - Syllabus.pdf" target="_new"> Syllabus</a>, <a href="https://canvas.uw.edu/courses/1548372" target="_new"> Class Webpage</a> <br>
        <h6 class="font-italic mt-2 mt-sm-0">Spring 2022, University of Washington  </h6> </p>
       </li>
       <li class="list-group-item"> 
