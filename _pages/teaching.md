@@ -10,7 +10,29 @@ nav_order: 3
 <hr> 
 
 <div class="row">
-      <div class="col-sm-1 publications">
+      <div class="col-sm-1 publication">
+        {%- if entry.preview -%}
+          {% if entry.preview contains '://' -%}
+          <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+          {%- else -%}
+            {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
+            {% include figure.html
+            path=entry_path
+            class="preview z-depth-1 rounded"
+            zoomable=true
+            alt=entry.preview -%}
+          {%- endif -%}
+        {%- elsif entry.abbr -%}
+          {%- if site.data.venues[entry.abbr] -%}
+            {%- assign venue_style = nil -%}
+            {%- if site.data.venues[entry.abbr].color != blank -%}
+              {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
+            {%- endif -%}
+            <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
+          {%- else -%}
+            <abbr class="badge">{{entry.abbr}}</abbr>
+          {%- endif -%}
+        {%- endif -%}
             </div>
             <div class="col-sm-9 publication">
                   <p> <span class="font-weight-bolder">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data </span> <br>
