@@ -14,6 +14,13 @@ nav_order: 3
       <li class="list-group-item"> Gaussian and Empirical Process Theory for High-Dimensional Data (in progress)</li>
 </ul>   
 <br>
+<h1 class="post-title"> Lecture Notes </h1>
+<ul class="font-weight-light list-group list-group-flush"> 
+      <li  <a href=" /assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lectures on Empirical Process Theory</a> </li>
+      <li  Gaussian and Empirical Process Theory for High-Dimensional Data (in progress)</li>
+</ul>   
+<br>
+
 <h1 class="post-title"> Courses </h1>
 
 <div class="card mt-3">
