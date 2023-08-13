@@ -11,7 +11,7 @@ nav_order: 3
       <div class="col-sm-1 space">
             </div>
             <div class="col-sm-9 text">
-                  <ul class="font-weight-light list-group"> 
+                  <ul class="font-weight-light list-group-flush"> 
                         <li class="list-group-item"> 
                         <p> <span class="font-weight-bolder">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data </span> <br>
                         Spring 2023, University of Washington and Pacific Institute for the Mathematical Sciences <a href = "https://www.pims.math.ca" target="_new">(PIMS)</a> <br>
