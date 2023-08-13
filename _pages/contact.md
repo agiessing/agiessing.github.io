@@ -25,6 +25,7 @@ mailing:
       https://calendly.com/giessing-7xc/30min
 ---
 
+<!--
 <p> <span class="font-weight-bold">E-mail:</span> <br>
 giessing@uw.edu </p>
 <p> <span class="font-weight-bold">Office:</span> <br>
@@ -40,6 +41,7 @@ Box 354322 <br>
 Seattle, WA 98195 </p>
 
 <p> <a href = "https://calendly.com/giessing-7xc/30min" target="_new"> Schedule time with me </a> </p>
+-->
 
 <div class="social">
   <div class="contact-icons">
