@@ -144,11 +144,10 @@ nav_order: 3
                             <div class="title">Gaussian and Empirical Process Theory for High-Dimensional Data</div>
                          <div class="where">
                                  (in progress, check back in October!)
-                            </div>  
+                         </div>  
                         </div>
                     </div>
                 </li>
             </ol>
         </div>
     </div>
-</div>
