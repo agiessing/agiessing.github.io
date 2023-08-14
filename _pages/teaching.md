@@ -41,6 +41,7 @@ nav_order: 3
                             <div class="links"></div>
                                  <a href="/assets/pdf/STAT 394 - Syllabus.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus</a>
                                  <a href="https://canvas.uw.edu/courses/1548372" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Class Webpage</a>
+                            </div>
                             <div class="badges"></div>
                         </div>
                     </div>
