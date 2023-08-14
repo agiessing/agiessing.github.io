@@ -47,3 +47,36 @@ nav_order: 3
             </ol>
         </div>
     </div>
+
+
+
+      <article>
+                <div class="grid-item">
+                    <div class="row justify-content-center">
+                        <div class="card" style="width: 95%; margin-bottom: 2em;">
+                            <div class="card-body" style="margin-bottom: 1em;">
+                                <img class="float-right" style="max-height: 124px; width: auto;" src="/assets/img/machine-learning-icon.png">
+                                <h4 class="card-title" style="margin-bottom: 0.15em;">Machine Learning and Deep Learning</h4>
+                                <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">AI5213 / AI4021 / EC4213 / CT5303 / ET5402 / FE5402 </p>
+                                <p style="margin-bottom: 0.7em; font-weight: lighter">Introductory course on machine learning which provides a broad and less technical treatment of key topics in statistical learning.</p>
+                                <a href="">
+                                    <b>2023 Fall</b>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 95%; margin-bottom: 2em;">
+                            <div class="card-body" style="margin-bottom: 1em;">
+                                <img class="float-right" style="max-height: 124px; width: auto;" src="/assets/img/azure-for-the-data-engineer-trophy.svg">
+                                <h4 class="card-title" style="margin-bottom: 0.15em;">Data Engineering</h4>
+                                <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">AI5308 / AI4005</p>
+                                <p style="margin-bottom: 0.7em; font-weight: lighter">Project-based learning course focused on machine learning systems design. </p>
+                                <a href="./dataeng23sp">
+                                    <b>2023 Spring</b>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </div>
