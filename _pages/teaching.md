@@ -142,7 +142,7 @@ nav_order: 3
                         <div class="col-sm-1 abbr"></div>
                         <div id="Notes" class="col-sm-10">
                             <div class="title">Gaussian and Empirical Process Theory for High-Dimensional Data</div>
-                         div class="where">
+                         <div class="where">
                                  (in progress, check back in October!)
                             </div>  
                         </div>
