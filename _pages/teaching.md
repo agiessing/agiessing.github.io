@@ -22,9 +22,25 @@ nav_order: 3
                             <div class="periodical"></div>
                              <div class="links">
                                 <a href="/assets/pdf/STAT 591 - Syllabus.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus</a>
-                                 <a href="https://courses.pims.math.ca/tag/2022-2023/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus PIMS</a>
+                                <a href="https://courses.pims.math.ca/tag/2022-2023/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus PIMS</a>
                                 <a href="https://canvas.uw.edu/courses/1635483" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Class Webpage</a>
                             </div>
+                            <div class="badges"></div>
+                        </div>
+                    </div>
+                </li>
+                   <li>
+                    <div class="row">
+                        <div class="col-sm-1 abbr"></div>
+                        <div id="STAT 394" class="col-sm-9">
+                            <div class="title"> STAT/ MATH 394: Probability I </div>
+                            <div class="author">
+                                pring 2022, University of Washington
+                            </div>
+                            <div class="periodical"></div>
+                            <div class="links"></div>
+                                 <a href="/assets/pdf/STAT 394 - Syllabus.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus</a>
+                                 <a href="https://canvas.uw.edu/courses/1548372" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Class Webpage</a>
                             <div class="badges"></div>
                         </div>
                     </div>
