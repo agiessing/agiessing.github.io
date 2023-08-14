@@ -25,4 +25,4 @@ Ongoing Research Themes:
  * Quantile Regression
  * Empirical Process Theory
 
-Before joining the University of Washington, I was postdoc in the Dept. of Operations Research and Financial Engineering at Princeton University. I hold a PhD in Statistics from the University of Michigan, a MSc in Econometrics and Mathematical Economics from LSE (UK), and a BSc in Economics from the University of Bonn (DE). 
+Before joining the University of Washington, I was postdoc in the [Dept. of Operations Research and Financial Engineering](https://orfe.princeton.edu) at Princeton University. I hold a PhD in Statistics from the [University of Michigan](https://lsa.umich.edu/stats), a MSc in Econometrics and Mathematical Economics from [LSE](https://www.lse.ac.uk), and a BSc in Economics from the [University of Bonn](https://www.uni-bonn.de/de?set_language=de). 
