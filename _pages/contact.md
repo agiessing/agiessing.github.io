@@ -27,8 +27,7 @@ nav_order: 4
       Seattle, WA 98195 </p>  
     </div>
     <div class="col-sm-4 col-xs-6">
-      <p> <span class="font-weight-bolder">Schedule time with me</span> <br>
-      <a href = "https://calendly.com/giessing-7xc/30min" target="_new"> 30 Minutes Chat </a> </p>
+      <p> <a href = "https://calendly.com/giessing-7xc/30min" class="font-weight-bolder" target="_new">Schedule time with me</a> </p>
     </div>
 </div>
 
