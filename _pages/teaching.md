@@ -133,7 +133,7 @@ nav_order: 3
                     <div class="row">
                         <div class="col-sm-1 abbr"></div>
                         <div id="Notes" class="col-sm-10">
-                            <div <span class="title" <a href = "/assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lectures on Empirical Process Theory </a> </span> </div>
+                            <div <span class="title" <a href = "/assets/pdf/empirical-proc-all-lectures.pdf" rel="external nofollow noopener" target="_new"> Lectures on Empirical Process Theory </a> </span> </div>
                         </div>
                     </div>
                 </li>
