@@ -31,11 +31,7 @@ nav_order: 3
                 </li>
             </ol>
         </div>
-    </div>
-
-
-
-<hr> 
+   <hr> 
 
 <div class="row">
       <div class="col-sm-1 publication">
