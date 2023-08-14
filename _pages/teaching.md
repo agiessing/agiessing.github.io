@@ -9,7 +9,7 @@ nav_order: 3
 <div class="container mt-5">
         <h1 class="post-title"> Classes </h1>
         <div class="publications">
-            <h2 class="bibliography">University of Washington</h2>
+            <h2 class="bibliography"> </h2>
             <ol class="bibliography">
                 <li>
                     <div class="row">
