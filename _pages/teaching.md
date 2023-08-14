@@ -14,7 +14,7 @@ nav_order: 3
             <ol class="course">
                 <li>
                     <div class="row">
-                        <div class="col-sm-1"></div>
+                        <div class="col-sm-1 abbr"></div>
                         <div id="STAT591" class="col-sm-9">
                             <div class="title">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data</div>
                             <div class="offered">
@@ -30,7 +30,7 @@ nav_order: 3
                 </li>
                 <li>
                     <div class="row">
-                        <div class="col-sm-1"></div>
+                        <div class="col-sm-1 abbr"></div>
                         <div id="STAT591" class="col-sm-9">
                             <div class="title">STAT 516: Stochastic Modeling of Scientific Data I</div>
                             <div class="offered">
