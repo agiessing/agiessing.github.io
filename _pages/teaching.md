@@ -10,7 +10,7 @@ nav_order: 3
  <div class="container mt-5">
         <h1 class="post-title"> Courses </h1>
         <div class="teaching">
-            <h2 class="courses"> UW </h2>
+            <h2 class="courses"> </h2>
             <ol class="courses">
                 <li>
                     <div class="row">
