@@ -1071,7 +1071,7 @@ nav[data-toggle="toc"] {
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
-    margin-bottom: 0rem; //-2rem;
+    margin-bottom: -0.5rem; //-2rem;
     text-align: right;
   }
 
@@ -1095,7 +1095,7 @@ nav[data-toggle="toc"] {
 
       .offered {
         a {
-          border-bottom: none; //1px solid var(--global-theme-color); //1px dashed var(--global-theme-color);
+          color: inherit;  //border-bottom: 1px dashed var(--global-theme-color);
 
           &:hover {
             border-bottom-style: solid;
