@@ -122,4 +122,30 @@ nav_order: 3
                 </li>
             </ol>
         </div>
+  <p>
+  <br>
+   </p>
+        <h1 class="post-title"> Lecture Notes </h1>
+        <div class="teaching">
+            <h2 class="courses"> </h2>
+            <ol class="courses">
+                <li>
+                    <div class="row">
+                        <div class="col-sm-1 abbr"></div>
+                        <div id="Notes" class="col-sm-10">
+                            <div <span class="title" <a href = "/assets/pdf/empirical-proc-all-lectures.pdf" target="_new"> Lectures on Empirical Process Theory </a> </span> </div>
+                        </div>
+                    </div>
+                </li>
+                 <li>
+                    <div class="row">
+                        <div class="col-sm-1 abbr"></div>
+                        <div id="Notes" class="col-sm-10">
+                            <div class="title">Gaussian and Empirical Process Theory for High-Dimensional Data</div>
+                        </div>
+                    </div>
+                </li>
+            </ol>
+        </div>
     </div>
+</div>
