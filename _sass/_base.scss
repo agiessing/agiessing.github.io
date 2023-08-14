@@ -1089,7 +1089,7 @@ nav[data-toggle="toc"] {
         max-width: 200px;
       }
 
-      .abbr {
+        .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
 
@@ -1107,6 +1107,12 @@ nav[data-toggle="toc"] {
             }
           }
         }
+
+        .achtung {
+          color: var(--global-theme-color) !important;
+          border: 1px solid var(--global-theme-color);
+        }
+      }
 
       .title {
         font-weight: bolder;
