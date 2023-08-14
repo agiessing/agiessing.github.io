@@ -35,7 +35,7 @@ nav_order: 3
                         <div id="STAT 394" class="col-sm-9">
                             <div class="title"> STAT/ MATH 394: Probability I </div>
                             <div class="author">
-                                pring 2022, University of Washington
+                                Spring 2022, University of Washington
                             </div>
                             <div class="periodical"></div>
                             <div class="links"></div>
