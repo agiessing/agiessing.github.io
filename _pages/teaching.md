@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: teaching
 permalink: /teaching/
 title: Teaching
 description:
@@ -7,9 +7,44 @@ nav: true
 nav_order: 3
 ---
 
-<!-- _pages/publications.md -->
-
-<h1 class="post-title"> Courses </h1>
-<div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[course=true]* %}
-          </div>
+ <div class="container mt-5">
+        <h1 class="post-title"> Courses </h1>
+        <div class="publications">
+            <h2 class="bibliography"> UW </h2>
+            <ol class="bibliography">
+                <li>
+                    <div class="row">
+                        <div class="col-sm-1 abbr"></div>
+                        <div id="STAT591" class="col-sm-9">
+                            <div class="title">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data</div>
+                            <div class="periodical">
+                                 Spring 2023, University of Washington and Pacific Institute for the Mathematical Sciences <a href = "https://www.pims.math.ca" target="_new">(PIMS)</a>
+                            </div>
+                            <div class="periodical"></div>
+                            <div class="links">
+                                    <a href="/assets/pdf/STAT 591 - Syllabus.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus</a>
+                                    <a href="https://courses.pims.math.ca/tag/2022-2023/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus (PIMS) </a>   
+                                    <a href="https://canvas.uw.edu/courses/1635483" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Course Webpage </a>   
+                            </div>
+                            <div class="badges"></div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-1 abbr"></div>
+                        <div id="STAT591" class="col-sm-9">
+                            <div class="title">STAT 516: Stochastic Modeling of Scientific Data I</div>
+                            <div class="periodical">
+                                Fall 2023, University of Washington
+                            </div>
+                            <div class="periodical"></div>
+                            <div class="links"></div>
+                            <div class="badges"></div>
+                        </div>
+                    </div>
+                </li>
+           
+            </ol>
+        </div>
+    </div>
