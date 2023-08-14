@@ -1095,7 +1095,7 @@ nav[data-toggle="toc"] {
 
       .offered {
         a {
-          border-bottom: var(--global-theme-color); //1px dashed var(--global-theme-color);
+          border-bottom: 1px solid var(--global-theme-color); //1px dashed var(--global-theme-color);
 
           &:hover {
             border-bottom-style: solid;
