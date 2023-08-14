@@ -1,15 +1,14 @@
 ---
-layout: default
+layout: page
 permalink: /teaching/
 title: Teaching
 description:
 nav: true
 nav_order: 3
 ---
-<div class="container mt-5">
         <h1 class="post-title"> Classes </h1>
         <div class="publications">
-            <h2 class="bibliography"> </h2>
+            <h2 class="bibliography"> " " </h2>
             <ol class="bibliography">
                 <li>
                     <div class="row">
@@ -48,7 +47,6 @@ nav_order: 3
                 </li>
             </ol>
         </div>
-</div>
    <hr> 
 
 <div class="row">
