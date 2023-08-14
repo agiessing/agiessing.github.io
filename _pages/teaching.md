@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 3
 ---
-
+<div class="container mt-5">
         <h1 class="post-title"> Classes </h1>
         <div class="publications">
             <h2 class="bibliography">University of Washington</h2>
@@ -47,6 +47,7 @@ nav_order: 3
                 </li>
             </ol>
         </div>
+</div>
    <hr> 
 
 <div class="row">
