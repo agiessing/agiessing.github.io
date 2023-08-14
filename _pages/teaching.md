@@ -18,7 +18,7 @@ nav_order: 3
                         <div id="STAT591" class="col-sm-10">
                             <div class="title">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data</div>
                            <div class="where">
-                                 <em> <a href = "https://www.pims.math.ca" target="_new"> University of Washington</em> and <em>Pacific Institute for the Mathematical Sciences </em> </a> 
+                                 <em> University of Washington</em> and <em>  <a href = "https://www.pims.math.ca" target="_new">Pacific Institute for the Mathematical Sciences</a>  </em> 
                             </div>
                             <div class="when">
                                  Spring 2023
