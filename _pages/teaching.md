@@ -48,9 +48,6 @@ nav_order: 3
         </div>
     </div>
 
-
-
-      <article>
                 <div class="grid-item">
                     <div class="row justify-content-center">
                         <div class="card" style="width: 95%; margin-bottom: 2em;">
@@ -77,6 +74,4 @@ nav_order: 3
                         </div>
                     </div>
                 </div>
-            </article>
-        </div>
-    </div>
+ 
