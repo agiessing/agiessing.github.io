@@ -37,8 +37,8 @@ nav_order: 3
                                 Fall 2023, University of Washington
                             </div>
                             <div class="links">
-                                    <a href="https://agiessing.github.io/teaching/" class="btn btn-sm z-depth-0" role="button" target="_blank">Syllabus</a>
-                                    <a href="https://agiessing.github.io/teaching/" class="btn btn-sm z-depth-0" role="button" target="_blank">Course Webpage </a>   
+                                    <a class="btn btn-sm z-depth-0" role="button" target="_blank">Syllabus</a>
+                                    <a class="btn btn-sm z-depth-0" role="button" target="_blank">Course Webpage </a>   
                             </div>
                         </div>
                     </div>
