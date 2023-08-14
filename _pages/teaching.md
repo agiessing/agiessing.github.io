@@ -15,7 +15,7 @@ nav_order: 3
                 <li>
                     <div class="row">
                         <div class="col-sm-1 abbr"></div>
-                        <div id="STAT591" class="col-sm-9">
+                        <div id="STAT591" class="col-sm-10">
                             <div class="title">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data</div>
                             <div class="when">
                                  Spring 2023
@@ -34,7 +34,7 @@ nav_order: 3
                 <li>
                     <div class="row">
                         <div class="col-sm-1 abbr"></div>
-                        <div id="STAT516" class="col-sm-9">
+                        <div id="STAT516" class="col-sm-10">
                             <div class="title">STAT 516: Stochastic Modeling of Scientific Data I</div>
                             <div class="when">
                                  Fall 2023
@@ -52,7 +52,7 @@ nav_order: 3
                 <li>
                     <div class="row">
                         <div class="col-sm-1 abbr"></div>
-                        <div id="STAT394" class="col-sm-9">
+                        <div id="STAT394" class="col-sm-10">
                             <div class="title">STAT/ MATH 394: Probability I</div>
                             <div class="when">
                                  Spring 2022
@@ -70,7 +70,7 @@ nav_order: 3
                  <li>
                     <div class="row">
                         <div class="col-sm-1 abbr"></div>
-                        <div id="STAT390" class="col-sm-9">
+                        <div id="STAT390" class="col-sm-10">
                             <div class="title">STAT 390: Statistical Methods in Engineering and Science</div>
                             <div class="when">
                                  Fall 2021, 2022, 2023, Winter 2022, 2023, Spring 2022, 2023
@@ -88,7 +88,7 @@ nav_order: 3
                   <li>
                     <div class="row">
                         <div class="col-sm-1 abbr"></div>
-                        <div id="ORF245" class="col-sm-9">
+                        <div id="ORF245" class="col-sm-10">
                             <div class="title">ORF 245: Fundamentals of Statistics</div>
                             <div class="when">
                                  Spring 2019
@@ -105,7 +105,7 @@ nav_order: 3
                   <li>
                     <div class="row">
                         <div class="col-sm-1 abbr"></div>
-                        <div id="Nankai" class="col-sm-9">
+                        <div id="Nankai" class="col-sm-10">
                             <div class="title">Workshop on Empirical Process Theory</div>
                             <div class="when">
                                  December 2018
