@@ -28,6 +28,7 @@ nav_order: 3
                                     <a href="https://courses.pims.math.ca/tag/2022-2023/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus (PIMS) </a>   
                                     <a href="https://canvas.uw.edu/courses/1635483" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Course Webpage </a>   
                             </div>
+                         <div class ="badges"> </div>
                         </div>
                     </div>
                 </li>
@@ -46,6 +47,7 @@ nav_order: 3
                                     <a class="btn btn-sm z-depth-0" role="button" target="_blank">Syllabus</a>
                                     <a class="btn btn-sm z-depth-0" role="button" target="_blank">Course Webpage </a>   
                             </div>
+                         <div class ="badges"> </div>
                         </div>
                     </div>
                 </li>
