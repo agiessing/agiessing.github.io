@@ -582,7 +582,7 @@ footer.sticky-bottom {
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
-    margin-bottom: 10rem;
+    margin-bottom: -2rem;
     text-align: right;
   }
 
@@ -665,6 +665,7 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
+          margin-bottom: -2rem; // new by me
 
           &:hover {
             color: var(--global-theme-color);
