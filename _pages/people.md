@@ -13,7 +13,6 @@ nav_order: 2
             <ol class="courses">
                 <li>
                     <div class="row">
-                     <div class="col-sm-1 abbr"></div>
                          <div class="col-sm-3 preview">
                                     <figure>
                                         <picture>
@@ -36,7 +35,6 @@ nav_order: 2
                 </li>
                 <li>
                     <div class="row">
-                     <div class="col-sm-1 abbr"></div>
                         <div class="col-sm-3 preview">
                                     <figure>
                                         <picture>
