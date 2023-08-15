@@ -55,5 +55,9 @@ nav_order: 2
             </ol>
         </div>
   </div>
-  <br>
+<br>
+  
+<p> <span class="font-weight-bolder">Do you wish to join us?</span> </p> <br>
+
+
 
