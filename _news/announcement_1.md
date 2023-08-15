@@ -8,7 +8,7 @@ related_posts: false
    <div class="news-post float-right">
                     <figure>
                         <picture>
-                            <img src="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy.png" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="NSF_Official_logo_High_Res_1200ppi-copy.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+                            <img src="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy.png" class="img-fluid" width="auto" height="auto" alt="NSF_Official_logo_High_Res_1200ppi-copy.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
                         </picture>
                     </figure>
                 </div>
