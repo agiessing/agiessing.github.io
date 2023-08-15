@@ -13,7 +13,7 @@ nav_order: 2
             <ol class="courses">
                 <li>
                     <div class="row">
-                         <div class="col-sm-3 preview">
+                         <div class="col-sm-4 preview">
                                     <figure>
                                         <picture>
                                             <img src="/assets/img/Yikun_Zhang.jpg" class="preview z-depth-1 rounded" width="auto" height="auto" alt="/assets/img/Yikun_Zhang.jpg" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
@@ -35,7 +35,7 @@ nav_order: 2
                 </li>
                 <li>
                     <div class="row">
-                        <div class="col-sm-3 preview">
+                        <div class="col-sm-4 preview">
                                     <figure>
                                         <picture>
                                             <img src="/assets/img/Wenjie_Guan.jpeg" class="preview z-depth-1 rounded" width="auto" height="auto" alt="/assets/img/Wenjie_Guan.jpeg" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
