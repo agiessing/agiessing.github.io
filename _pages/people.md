@@ -1,10 +1,10 @@
 ---
 layout: teaching
-permalink: /teaching/
-title: Teaching
+permalink: /people/
+title: People
 description:
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
  <div class="container mt-5">
