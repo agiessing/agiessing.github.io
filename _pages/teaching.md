@@ -14,7 +14,7 @@ nav_order: 4
             <ol class="courses">
                 <li>
                     <div class="row">
-                        <div class="col-sm-1 abbr"></div>
+                        <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="STAT591" class="col-sm-11">
                             <div class="title">STAT 591: Gaussian and Empirical Process Theory for High-Dimensional Data</div>
                            <div class="where">
@@ -34,7 +34,7 @@ nav_order: 4
                 </li>
                 <li>
                     <div class="row">
-                        <div class="col-sm-1 abbr"></div>
+                        <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="STAT516" class="col-sm-11">
                             <div class="title">STAT 516: Stochastic Modeling of Scientific Data I</div>
                             <div class="where">
@@ -53,7 +53,7 @@ nav_order: 4
                 </li>
                 <li>
                     <div class="row">
-                        <div class="col-sm-1 abbr"></div>
+                        <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="STAT394" class="col-sm-11">
                             <div class="title">STAT/ MATH 394: Probability I</div>
                             <div class="where">
@@ -71,7 +71,7 @@ nav_order: 4
                 </li>
                  <li>
                     <div class="row">
-                        <div class="col-sm-1 abbr"></div>
+                        <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="STAT390" class="col-sm-11">
                             <div class="title">STAT 390: Statistical Methods in Engineering and Science</div>
                             <div class="where">
@@ -89,7 +89,7 @@ nav_order: 4
                 </li>
                   <li>
                     <div class="row">
-                        <div class="col-sm-1 abbr"></div>
+                        <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="ORF245" class="col-sm-11">
                             <div class="title">ORF 245: Fundamentals of Statistics</div>
                             <div class="where">
@@ -106,7 +106,7 @@ nav_order: 4
                 </li>
                   <li>
                     <div class="row">
-                        <div class="col-sm-1 abbr"></div>
+                        <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="Nankai" class="col-sm-11">
                             <div class="title">Workshop on Empirical Process Theory</div>
                             <div class="where">
@@ -133,7 +133,7 @@ nav_order: 4
             <ol class="courses">
                 <li>
                  <div class="row">
-                        <div class="col-sm-1 abbr"></div>
+                        <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="Notes" class="col-sm-11">
                             <div class="title">Lectures on Empirical Process Theory</div>
                             <div class="links">
@@ -144,7 +144,7 @@ nav_order: 4
                 </li>
                  <li>
                     <div class="row">
-                        <div class="col-sm-1 abbr"></div>
+                        <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="Notes" class="col-sm-11">
                             <div class="title">Gaussian and Empirical Process Theory for High-Dimensional Data</div>
                          <div class="where">
