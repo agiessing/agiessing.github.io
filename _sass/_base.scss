@@ -582,7 +582,7 @@ footer.sticky-bottom {
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
-    margin-bottom: -2rem;
+    margin-bottom: 0rem;
     text-align: right;
   }
 
@@ -602,7 +602,7 @@ footer.sticky-bottom {
 
       .abbr {
         height: 2rem;
-        margin-bottom: -2rem;
+        margin-bottom: 0.5rem;
 
        abbr {
           display: inline-block;
