@@ -1,31 +1,41 @@
+---
+layout: post
+title: NSF recognizes my research!
+date: 2023-06-15 16:11:00-0400
+inline: false
+related_posts: false
+---
+<article>
+
      <div class="profile float-right">
                     <figure>
                         <picture>
-                            <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/prof_pic-480.webp">
+                            <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy-480.webp">
                             </source>
-                            <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/prof_pic-800.webp">
+                            <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy-800.webp">
                             </source>
-                            <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/prof_pic-1400.webp">
+                            <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy-1400.webp">
                             </source>
-                            <img src="/assets/img/prof_pic.jpg?efb2d5b6f250267a4447f8e20f79c45c" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="prof_pic.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+                            <img src="/assets/img/prof_pic.jpg?efb2d5b6f250267a4447f8e20f79c45c" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="NSF_Official_logo_High_Res_1200ppi-copy.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
                         </picture>
                     </figure>
                 </div>
                 <div class="clearfix">
                     <p>
-                        I am acting assistant professor in the 
-                        <a href="https://stat.uw.edu" rel="external nofollow noopener" target="_blank">Department of Statistics</a>
-                         at the 
-                        <a href="https://www.washington.edu" rel="external nofollow noopener" target="_blank">University of Washington</a>
-                        . I am broadly interested in inference on high-dimensional data. My research is supported by the National Science Foundation (NSF DMS-2310578).
+                    The National Science Foundation will fund my research on “Semiparametric Efficient and Robust Inference on High-Dimensional Data” with $175,000 for the next three years.
                     </p>
-                    <p>Ongoing Research Themes:</p>
-                    <ul>
-                        <li>Gaussian and Bootstrap Approximations</li>
-                        <li>Analysis of Missing/ Incomplete Data</li>
-                        <li>Semiparametric Inference</li>
-                        <li>Quantile Regression</li>
-                        <li>Empirical Process Theory</li>
-                    </ul>
-                    <p>Before joining the University of Washington, I was postdoc in the Dept. of Operations Research and Financial Engineering at Princeton University. I hold a PhD in Statistics from the University of Michigan, a MSc in Econometrics and Mathematical Economics from LSE (GB), and a BSc in Economics from the University of Bonn (DE).</p>
+                    <p>
+                    The project aims to develop new methodology for inference on high-dimensional and incomplete data. Most data collected for scientific or industrial purposes lack information                      about certain features that were lost at the sampling stage due to factors such as experimental design, non-compliance, or technical problems. This issue is particularly                          prevalent in high-dimensional data sets, where each observation comprises many features. Failing to effectively address this issue results in inefficient and biased inference                     and can lead to spurious scientific discoveries.
+                    </p>
+                    <p>
+                    The project comprises two lines of research: (1) a novel framework for semiparametric efficient inference in high dimensions after adjusting for incomplete data and (2) new                       multiplier bootstrap tests for simultaneous and large-scale multiple testing problems that are robust to missingness.
+                    </p>
+                    <p>               
+                    The funding will allow me to support graduate students for some period of time while they learn and work on the project.
+                    </p>
+                    <p>
+                    More details: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">NSF DMS-2310578</a>
+                    </p>
                 </div>
+                     
+</article>
