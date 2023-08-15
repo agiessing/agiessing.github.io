@@ -14,7 +14,7 @@ related_posts: false
                             </source>
                             <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy-1400.webp">
                             </source>
-                            <img src="/assets/img/prof_pic.jpg?efb2d5b6f250267a4447f8e20f79c45c" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="NSF_Official_logo_High_Res_1200ppi-copy.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+                            <img src="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy.png" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="NSF_Official_logo_High_Res_1200ppi-copy.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
                         </picture>
                     </figure>
                 </div>
