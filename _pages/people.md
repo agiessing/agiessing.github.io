@@ -55,12 +55,9 @@ nav_order: 2
             </ol>
         </div>
   </div>
-<br>
 
    <div class="container mt-5"> 
-   
    <p> <span class="font-weight-bolder">Do you wish to join us?</span> </p> <br>
-   
    </div>
 
 
