@@ -1085,7 +1085,7 @@ nav[data-toggle="toc"] {
  
       .preview {
         width: 100%;
-        min-width: 80px;
+        min-width: 80px; // change this to make profile pictures of students larger...
         max-width: 200px;
       }
 
@@ -1202,16 +1202,6 @@ nav[data-toggle="toc"] {
 .news-post {
   width: 100%;
 
-  .address {
-    margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
-
-    p {
-      display: inline-block;
-      margin: 0;
-    }
-  }
 }
 
 .news-post.float-right {
