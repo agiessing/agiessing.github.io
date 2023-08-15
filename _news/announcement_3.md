@@ -5,9 +5,7 @@ date: 2023-06-15 16:11:00-0400
 inline: false
 related_posts: false
 ---
-<article>
-
-     <div class="profile float-right">
+   <div class="float-right">
                     <figure>
                         <picture>
                             <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy-480.webp">
@@ -37,5 +35,3 @@ related_posts: false
                     More details: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">NSF DMS-2310578</a>
                     </p>
                 </div>
-                     
-</article>
