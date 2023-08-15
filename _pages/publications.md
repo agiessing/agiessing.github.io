@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: teaching
 permalink: /publications/
 title: Publications
 description: preprints and published articles in reverse chronological order
