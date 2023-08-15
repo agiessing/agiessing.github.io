@@ -8,12 +8,6 @@ related_posts: false
    <div class="news-post float-right">
                     <figure>
                         <picture>
-                            <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy-480.webp">
-                            </source>
-                            <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy-800.webp">
-                            </source>
-                            <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy-1400.webp">
-                            </source>
                             <img src="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy.png" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="NSF_Official_logo_High_Res_1200ppi-copy.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
                         </picture>
                     </figure>
