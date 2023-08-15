@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /publications/
 title: Publications
 description: preprints and published articles in reverse chronological order
