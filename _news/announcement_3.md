@@ -5,7 +5,7 @@ date: 2023-06-15 16:11:00-0400
 inline: false
 related_posts: false
 ---
-   <div class="float-right">
+   <div class="news-post float-right">
                     <figure>
                         <picture>
                             <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy-480.webp">
