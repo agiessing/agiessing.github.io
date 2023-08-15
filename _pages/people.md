@@ -58,7 +58,7 @@ nav_order: 2
 
 
  <div class="container mt-5">
-        <h1 class="post-title"> Future Students </h1>
+        <h2 class="post-title"> Do you wish to join us?</h2>
         <p>
          Each student is different, and I am committed to help each of them achieve their full potential. To be part of our group, you must be a motivated and dedicated student. You also need to be willing to meet with me regularly (typically twice a week) and enjoy team work in addition to independent study.
         </p>
