@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: preprints and published articles in reverse chronological order
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
