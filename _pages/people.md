@@ -1,7 +1,7 @@
 ---
 layout: teaching
 permalink: /people/
-title: People
+title: Students
 description:
 nav: true
 nav_order: 2
