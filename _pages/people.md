@@ -56,10 +56,13 @@ nav_order: 2
         </div>
   </div>
 
-   <div class="container mt-5"> 
-   <p> <span class="font-weight-bolder">Do you wish to join us?</span> </p> <br>
-   </div>
 
-
+ <div class="container mt-5">
+        <h1 class="post-title"> Future Students </h1>
+        <p>
+         Each student is different, and I work intensely with all my students to help them achieve their full potential. To be part of our group, you must be motivated and dedicated. You need to be willing to meet with me regularly (usually twice a week) and enjoy team work in addition to independent study.
+        </p>
+  </div>
+  
 
 
