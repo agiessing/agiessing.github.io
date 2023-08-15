@@ -21,7 +21,7 @@ nav_order: 3
                                  <em> University of Washington</em> and <em>Pacific Institute for the Mathematical Sciences</em> <a href = "https://www.pims.math.ca" target="_new">(PIMS) </a>
                             </div>
                             <div class="when">
-                                 <em> Spring 2023</em>
+                                 Spring 2023
                             </div>
                             <div class="links">
                                     <a href="/assets/pdf/STAT 591 - Syllabus.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus</a>
@@ -40,7 +40,7 @@ nav_order: 3
                                  <em> University of Washington </em>
                             </div>
                             <div class="when">
-                                 <em> Fall 2023 </em>
+                                 Fall 2023
                             </div>
                             <div class="links">
                                     <a class="btn btn-sm z-depth-0" role="button" target="_blank">Syllabus</a>
