@@ -22,9 +22,9 @@ nav_order: 2
                                     </figure>
                                 </div>
                         <div id="Yikun_Zhang" class="col-sm-6">
-                            <div class="title">Yikun Zhang</div
+                            <div class="title">Yikun Zhang, PhD Student</div
                             <div class="when">
-                                PhD Student, since September 2022, co-advised with <a href = "http://faculty.washington.edu/yenchic/" target="_new">Yen-Chi Chen </a>
+                                since September 2022, co-advised with <a href = "http://faculty.washington.edu/yenchic/" target="_new">Yen-Chi Chen </a>
                             </div>
                         </div>
                     </div>
@@ -39,9 +39,9 @@ nav_order: 2
                                     </figure>
                                 </div>
                        <div id="Wenjie_Guan" class="col-sm-6">
-                            <div class="title">Wenjie Guan</div>
+                            <div class="title">Wenjie Guan, MS Student</div>
                             <div class="when">
-                                MS Student, since June 2022
+                                since June 2022
                             </div>
                         </div>
                     </div>
