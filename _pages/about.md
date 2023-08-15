@@ -27,4 +27,3 @@ Ongoing Research Themes:
 
 Before joining the University of Washington, I was postdoc in the Dept. of Operations Research and Financial Engineering at Princeton University. I hold a PhD in Statistics from the University of Michigan, a MSc in Econometrics and Mathematical Economics from LSE (GB), and a BSc in Economics from the University of Bonn (DE). 
 
-<br>
