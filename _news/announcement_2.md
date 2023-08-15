@@ -5,7 +5,13 @@ date: 2023-06-15 16:11:00-0400
 inline: false
 related_posts: false
 ---
-{% include figure.html path="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy.png" title=" " class="img-fluid rounded z-depth-1" %}
+
+<img src="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy.png" 
+	 style="object-fit:contain;
+            width:200px;
+            height:300px;
+            border: solid 1px #CCC"/>
+
 
 The National Science Foundation will fund my research on “Semiparametric Efficient and Robust Inference on High-Dimensional Data” with $175,000 for the next three years.
 
