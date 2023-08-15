@@ -8,8 +8,8 @@ related_posts: false
 
 <img src="/assets/img/NSF_Official_logo_High_Res_1200ppi-copy.png" 
 	 style="object-fit:contain;
-            width:200px;
-            height:300px;
+            width: 200px;
+            height: 200px;
             border: solid 1px #CCC"/>
 
 
@@ -21,4 +21,4 @@ The project will develop two complementary lines of research: first, a novel fra
 
 The funding will allow me to support graduate students for a limited period of time while they learn and work on the project.
 
-For more details: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">official award abstract (DMS-2310578) </a>.
+For more details: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">NSF DMS-2310578 </a>
