@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper on Quantile Treatment Effects published in JRSSB ([link](https://doi.org/10.1093/jrsssb/qkad075)]
+Paper on Quantile Treatment Effects published in JRSSB ([link](https://doi.org/10.1093/jrsssb/qkad075))
