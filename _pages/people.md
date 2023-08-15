@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
  <div class="container mt-5">
+  <div class="row">
         <h1 class="post-title"> Current Students </h1>
         <div class="teaching">
             <ol class="courses">
@@ -54,6 +55,6 @@ nav_order: 2
                 </li>
             </ol>
         </div>
-  <p>
+  </div>
   <br>
 
