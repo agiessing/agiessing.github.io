@@ -22,7 +22,7 @@ The project aims to develop new methodology for inference on high-dimensional an
 The project consists of two main research thrusts: (1) a novel framework for semiparametric efficient inference in high dimensions after adjusting for incomplete data and (2) new multiplier bootstrap tests for simultaneous and large-scale multiple testing problems that are robust to missingness.
 </p>
 <p>               
-The funding will allow me to support graduate students for some period of time while they learn and work on the project.
+The funding will allow me to support graduate students for some period of time while they train and work on the project.
 </p>
 <p>
 More details: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">NSF DMS-2310578</a>
