@@ -22,7 +22,9 @@ nav_order: 2
                                     </figure>
                                 </div>
                         <div id="Yikun_Zhang" class="col-sm-8">
-                           <a href= "https://zhangyk8.github.io" class="title">Yikun Zhang</a>, PhD Student
+                           <div class="title">
+                           <a href= "https://zhangyk8.github.io">Yikun Zhang</a>, PhD Student
+                           </div>
                             <div class="when">
                                 since Sept. 2022
                             </div>
@@ -41,8 +43,10 @@ nav_order: 2
                                         </picture>
                                     </figure>
                                 </div>
-                       <div id="Wenjie_Guan" class="col-sm-8">
-                            <div class="title">Wenjie Guan, MS Student</div>
+                       <div id="Wenjie_Guan" class="col-sm-8">     
+                            <div class="title">
+                            <a href= "https://stat.uw.edu/about-us/people/wenjie-guan">Wenjie Guan</a>, MS Student 
+                            </div>
                             <div class="when">
                                 since June 2023
                             </div>
@@ -53,4 +57,6 @@ nav_order: 2
         </div>
   <p>
   <br>
+
+  
   
