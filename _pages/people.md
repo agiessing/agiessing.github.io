@@ -10,7 +10,6 @@ nav_order: 2
  <div class="container mt-5">
         <h1 class="post-title"> Current Students </h1>
         <div class="teaching">
-            <h2 class="courses"> </h2>
             <ol class="courses">
                 <li>
                     <div class="row">
@@ -60,5 +59,3 @@ nav_order: 2
   <p>
   <br>
 
-  
-  
