@@ -15,4 +15,4 @@ The project will develop two complementary lines of research: first, a novel fra
 
 The funding will allow me to support graduate students for a limited period of time while they learn and work on the project.
 
-For more details, check the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">official award abstract (DMS-2310578) </a>.
+For more details: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">official award abstract (DMS-2310578) </a>.
