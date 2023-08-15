@@ -60,7 +60,7 @@ nav_order: 2
  <div class="container mt-5">
         <h1 class="post-title"> Future Students </h1>
         <p>
-         Each student is different, and I am committed to help them achieve their full potential. To be part of our group, you must be a motivated and dedicated student. You need to be willing to meet with me regularly (usually twice a week) and enjoy team work in addition to independent study.
+         Each student is different, and I am committed to help them achieve their full potential. To be part of our group, you must be a motivated and dedicated student. You also need to be willing to meet with me regularly (typically twice a week) and enjoy team work in addition to independent study.
         </p>
   </div>
   
