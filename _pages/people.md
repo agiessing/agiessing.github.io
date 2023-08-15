@@ -22,7 +22,7 @@ nav_order: 2
                                     </figure>
                                 </div>
                         <div id="Yikun_Zhang" class="col-sm-8">
-                            <div class="title">Yikun Zhang, PhD Student</div>
+                           <a href= "https://zhangyk8.github.io" class="title">Yikun Zhang</a>, PhD Student
                             <div class="when">
                                 since Sept. 2022 (co-advised with <a href = "http://faculty.washington.edu/yenchic/" target="_new">Yen-Chi Chen</a>)
                             </div>
