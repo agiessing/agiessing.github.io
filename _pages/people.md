@@ -41,7 +41,7 @@ nav_order: 2
                        <div id="Wenjie_Guan" class="col-sm-8">
                             <div class="title">Wenjie Guan, MS Student</div>
                             <div class="when">
-                                since June 2022
+                                since June 2023
                             </div>
                         </div>
                     </div>
