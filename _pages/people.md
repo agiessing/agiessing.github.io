@@ -22,7 +22,7 @@ nav_order: 2
                                     </figure>
                                 </div>
                         <div id="Yikun_Zhang" class="col-sm-6">
-                            <div class="title">Yikun Zhang, PhD Student</div
+                            <div class="title">Yikun Zhang, PhD Student</div>
                             <div class="when">
                                 since September 2022, co-advised with <a href = "http://faculty.washington.edu/yenchic/" target="_new">Yen-Chi Chen </a>
                             </div>
