@@ -2,12 +2,15 @@
 layout: page
 permalink: /people/
 title: Students
-description: I have the immense fortune to work with fantastic students, and I am always looking to add more talented and hard-working students to my group.
+description:
 nav: true
 nav_order: 2
 display_categories: [current, former]
-horizontal: false
+horizontal: true
 ---
+
+I have the immense fortune to work with fantastic students, and I am always looking to add more talented and hard-working students to my group.
+
 
 <!-- pages/projects.md -->
 <div class="projects">
