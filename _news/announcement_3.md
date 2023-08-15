@@ -18,7 +18,7 @@ related_posts: false
                         </picture>
                     </figure>
                 </div>
-                <div class="clearfix">
+                <div>
                     <p>
                     The National Science Foundation will fund my research on “Semiparametric Efficient and Robust Inference on High-Dimensional Data” with $175,000 for the next three years.
                     </p>
