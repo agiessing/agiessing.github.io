@@ -21,4 +21,4 @@ The project comprises two lines of research: first, a novel framework for semipa
 
 The funding will allow me to support one graduate student for a total of nine months while they learn and work on the project.
 
-More details: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">NSF DMS-2310578 </a>
+More details: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310578&HistoricalAwards=false">NSF DMS-2310578 </a>.
