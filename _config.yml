@@ -16,7 +16,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 keywords: giessing, statistics, professor, university of washington  # jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: Ginkgo-AG-wide-nb.png # noun-ginkgo-2442254.png   #   ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: Gingko-AG-4f-nb.png # Ginkgo-AG-wide-nb.png   #   ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://agiessing.github.io # the base hostname & protocol for your site
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/
