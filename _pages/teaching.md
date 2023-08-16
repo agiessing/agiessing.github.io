@@ -108,7 +108,7 @@ nav_order: 4
                     <div class="row">
                         <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="Nankai" class="col-sm-11">
-                            <div class="title">Workshop on Empirical Process Theory</div>
+                            <div class="title">Short Course on Empirical Process Theory</div>
                             <div class="where">
                                  <em> Nankai University </em>
                             </div>  
