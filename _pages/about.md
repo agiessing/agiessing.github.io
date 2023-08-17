@@ -16,7 +16,9 @@ selected_papers: false #true # includes a list of papers marked as "selected={tr
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am acting assistant professor in the [Department of Statistics](https://stat.uw.edu) at the [University of Washington](https://www.washington.edu). I am broadly interested in inference on high-dimensional data. My research is supported by the National Science Foundation with grant DMS-2310578 (PI).
+I am acting assistant professor in the [Department of Statistics](https://stat.uw.edu) at the [University of Washington](https://www.washington.edu). I am broadly interested in inference on high-dimensional data. My research is supported by the National Science Foundation with grant [DMS-2310578 (PI)](https://agiessing.github.io/news/announcement_1/)
+
+/announcement_1.md
 
 Ongoing Research Themes:
  * Gaussian and Bootstrap Approximations
