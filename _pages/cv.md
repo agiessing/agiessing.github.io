@@ -4,6 +4,6 @@ permalink: /assets/pdf/GIE_CV.pdf  # /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: # example_pdf.pdf
+cv_pdf: # /assets/pdf/GIE_CV.pdf
 description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
 ---
