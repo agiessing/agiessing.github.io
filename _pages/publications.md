@@ -15,7 +15,7 @@ nav_order: 3
           </div>
 
 <br>
-<h1 class="post-title"> Journal Articles & Conference Proceedings </h1>
+<h1 class="post-title"> Journal & Conference Articles </h1>
 <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[preprint=false]* %}
 </div>
