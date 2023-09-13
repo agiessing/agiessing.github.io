@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-[Paper on Quantile Treatment Effects published in JRSSB](https://doi.org/10.1093/jrsssb/qkad075)
+[Paper published in JRSSB: Debiased inference on heterogeneous quantile treatment effects with regression rank-scores](https://doi.org/10.1093/jrsssb/qkad075)
 
