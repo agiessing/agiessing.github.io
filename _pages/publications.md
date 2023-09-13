@@ -10,6 +10,7 @@ nav_order: 3
 <!-- _pages/publications.md -->
 
 <h1 class="post-title"> Preprints </h1>
+<p class="post-description"> &ast; Student Author </p>
 <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[preprint=true]* %}
           </div>
@@ -19,4 +20,3 @@ nav_order: 3
 <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[preprint=false]* %}
 </div>
-
