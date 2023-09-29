@@ -45,8 +45,8 @@ nav_order: 4
                               2023
                             </div>
                             <div class="links">
-                                    <a class="btn btn-sm z-depth-0" role="button" target="_blank">Syllabus</a>
-                                    <a class="btn btn-sm z-depth-0" role="button" target="_blank">Course Webpage </a>   
+                                    <a href="/assets/pdf/STAT 516 - Syllabus.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus</a>
+                                    <a href="https://canvas.uw.edu/courses/1662610" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Course Webpage </a>
                             </div>
                         </div>
                     </div>
@@ -82,7 +82,7 @@ nav_order: 4
                             </div>
                             <div class="links">
                                     <a href="/assets/pdf/STAT 390 - Syllabus - long version-2.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus</a>
-                                    <a href="https://canvas.uw.edu/courses/1635461" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Course Webpage </a>   
+                                    <a href="https://canvas.uw.edu/courses/1662590" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Course Webpage </a>   
                             </div>
                         </div>
                     </div>
