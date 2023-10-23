@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[New on arXiv: Gaussian and Bootstrap Approximations for Suprema of Empirical Processes](https://arxiv.org/abs/2309.01307)
+[New on arXiv: Gaussian and bootstrap approximations for suprema of empirical processes](https://arxiv.org/abs/2309.01307)
