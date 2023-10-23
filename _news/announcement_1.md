@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSF recognizes my research!
+title: NSF award "Semiparametric Efficient and Robust Inference on High-Dimensional Data"
 date: 2023-06-15 16:11:00-0400
 inline: false
 related_posts: false
