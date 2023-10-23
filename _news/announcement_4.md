@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[New on arXiv: A Bootstrap Hypothesis Test for High-Dimensional Mean Vectors](https://arxiv.org/abs/2309.01254)
+[New on arXiv: A bootstrap hypothesis test for high-dimensional mean vectors](https://arxiv.org/abs/2309.01254)
