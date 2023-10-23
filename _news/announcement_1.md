@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSF award "Semiparametric Efficient and Robust Inference on High-Dimensional Data"
+title: NSF award "Semiparametric efficient and robust inference on high-dimensional data"
 date: 2023-06-15 16:11:00-0400
 inline: false
 related_posts: false
@@ -13,7 +13,7 @@ related_posts: false
                     </figure>
                 </div>
 
-<p> The National Science Foundation will fund my research on “Semiparametric Efficient and Robust Inference on High-Dimensional Data” with $175,000 for the next three years.
+<p> The National Science Foundation will fund my research on “Semiparametric efficient and robust inference on high-dimensional data” with $175,000 for the next three years.
 </p>
 <p>
 The project aims to develop new methodology for inference on high-dimensional and incomplete data. Most data collected for scientific or industrial purposes lack information about certain features that were lost at the sampling stage due to factors such as experimental design, non-compliance, or technical problems. This issue is particularly prevalent in high-dimensional data sets, where each observation comprises many features. Failing to effectively address this issue results in inefficient and biased inference and can lead to spurious scientific discoveries.
