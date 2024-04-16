@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[🎉 Congratulations to Yikun on receiving the IMS Hannan Graduate Student Travel Award!](https://agiessing.github.io/people/) 
+[🎉 Congratulations, Yikun, on receiving the IMS Hannan Graduate Student Travel Award!](https://agiessing.github.io/people/) 
