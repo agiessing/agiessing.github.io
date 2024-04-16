@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[🎉 Congratulations, Wenjie, on joining Cornell University's PhD Program in Statistics!](https://agiessing.github.io/people/) 
+[🎉 Congratulations, Wenjie, on joining the PhD Program in Statistics at Cornell University!](https://agiessing.github.io/people/) 
