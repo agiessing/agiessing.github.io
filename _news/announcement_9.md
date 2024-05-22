@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🎉 Yikun wins 2024 ICSA Applied Statistics Symposium Student Paper Award 
+title: 🎉 Yikun wins 2024 ICSA Applied Statistics Symposium Student Paper Award!
 date: 2024-05-22 12:41:00-0400
 inline: false
 related_posts: false
