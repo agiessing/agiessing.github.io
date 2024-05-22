@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-[Yikun](https://zhangyk8.github.io) has won the student paper award of the [ICSA 2024 Applied Statistics Symposium](https://symposium2024.icsa.org), to be held June 16-19, 2024, in Nashville, Tennessee for his paper [Efficient Inference on High-Dimensional Linear Models with Missing Outcomes](https://arxiv.org/abs/2309.06429).
+[Yikun](https://zhangyk8.github.io) has won the student paper award of the [ICSA 2024 Applied Statistics Symposium](https://symposium2024.icsa.org), to be held June 16-19, 2024, in Nashville, Tennessee for his (theory/ methodology 😉) paper [Efficient Inference on High-Dimensional Linear Models with Missing Outcomes](https://arxiv.org/abs/2309.06429) with applications to astro-physics.
 
 The ICSA Student Paper Award winners will present their work at the conference on Tuesday, June 18th. Congratulations Yikun!
 
