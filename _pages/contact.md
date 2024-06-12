@@ -29,7 +29,8 @@ nav_order: 6
     <div class="col-sm-4 col-xs-6">
       <p> <span class="font-weight-bolder">Schedule time with me</span> <br>
       <a 30 Minutes Chat </a> </p>
-      <! -- <a href = "https://calendly.com/giessing-7xc/30min" target="_new"> 30 Minutes Chat </a> </p> -->
+      <! -- <a href = "https://calendly.com/giessing-7xc/30min" target="_new"> 30 Minutes Chat </a> </p>
+          -->
     </div>
 </div>
 
