@@ -16,7 +16,7 @@ selected_papers: false #true # includes a list of papers marked as "selected={tr
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am acting assistant professor in the [Department of Statistics](https://stat.uw.edu) at the [University of Washington](https://www.washington.edu). I am broadly interested in inference on high-dimensional data. My research is supported by the National Science Foundation with grant [DMS-2310578 (PI)](https://agiessing.github.io/news/announcement_1/).
+I am assistant professor in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg) at the [National University of Singapore](https://nus.edu.sg). I am broadly interested in inference on high-dimensional data.
 
 Ongoing Research Themes:
  * Gaussian and Bootstrap Approximations
@@ -25,5 +25,5 @@ Ongoing Research Themes:
  * Quantile Regression
  * Empirical Process Theory
 
-Before joining the University of Washington, I was postdoc in the Dept. of Operations Research and Financial Engineering at Princeton University. I hold a PhD in Statistics from the University of Michigan, a MSc in Econometrics and Mathematical Economics from the London School of Economics and Political Science, and a BSc in Economics from the University of Bonn, Germany. 
+Before joining the National University of Singapore, I was visiting assistant professor in the Department of Statistics at University of Washington, Seattle and postdoc in the Dept. of Operations Research and Financial Engineering at Princeton University.
 
