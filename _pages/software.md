@@ -31,7 +31,7 @@ nav_order: 4
                         <div id="STAT516" class="col-sm-11">
                             <div class="title">debiasInfer (R and Python packages)</div>
                             <div class="description">
-                                 Debiasing method for inference on high-dimensional linear regression functions with missing outcomes (Zhang, Giessing, and Chen, 2023)
+                                 Debiasing method for inference on high-dimensional linear regression functions with missing outcomes (Zhang, Giessing, and Chen, 2023).
                             </div>
                             <div class="links">
                                <a href="https://github.com/zhangyk8/Debias-Infer" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">GitHub Repository</a>
@@ -45,7 +45,7 @@ nav_order: 4
                         <div id="STAT394" class="col-sm-11">
                             <div class="title">npDoseResponse (R and Python packages)</div>
                             <div class="description">
-                                 Integral and a localized derivative estimators for nonparametric inference on covariate-adjusted regression functions/ dose-response curves and their derivatives (Zahng, Chen, Giessing, 2024) 
+                                 Integral and a localized derivative estimators for nonparametric inference on covariate-adjusted regression functions/ dose-response curves and their derivatives (Zhang, Chen, Giessing, 2024).
                             </div>
                             <div class="links">
                                 <a href="https://github.com/zhangyk8/npDoseResponse" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">GitHub Repository</a>   
