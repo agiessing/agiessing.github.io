@@ -44,7 +44,7 @@ nav_order: 2
                                 </div>
                        <div id="Wenjie_Guan" class="col-sm-8">     
                             <div class="title">
-                            <a href= "https://stat.uw.edu/about-us/people/wenjie-guan">Wenjie Guan</a>, MS Student at University of Washington, now PhD at Cornell University
+                            <a href= "https://stat.uw.edu/about-us/people/wenjie-guan">Wenjie Guan</a>, MS Student at University of Washington, now PhD Student at Cornell University
                             </div>
                             <div class="when">
                                 June 2023 -- June 2024
