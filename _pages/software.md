@@ -15,7 +15,7 @@ nav_order: 4
                     <div class="row">
                         <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="debiasQR (R package)" class="col-sm-11">
-                            <div class="title">debiasQR </div>
+                            <div class="title">debiasQR (R package) </div>
                            <div class="description">
                                  Debiasing procedure for $\ell_1$-penalized quantile regression in high-dimensional sparse models via regression rank-scores (Giessing and Wang, 2023).
                             </div>
