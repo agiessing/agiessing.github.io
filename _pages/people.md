@@ -24,11 +24,11 @@ nav_order: 2
                            <div class="title">
                            <a href= "https://zhangyk8.github.io">Yikun Zhang</a>, PhD Student at University of Washington
                            </div>
-                            <div class="when">
-                                Sept. 2022 - June 2024
-                            </div>
                              <div class="where">
                                 co-advised with <a href = "http://faculty.washington.edu/yenchic/" target="_new">Yen-Chi Chen</a>
+                            </div>
+                            <div class="when">
+                                Sept. 2022 - June 2024
                             </div>
                         </div>
                     </div>
