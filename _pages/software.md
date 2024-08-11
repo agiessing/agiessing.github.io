@@ -8,6 +8,7 @@ nav_order: 4
 ---
 
  <div class="container mt-5">
+    <h1 class="post-title"> Software </h1>
         <div class="teaching">
             <h2 class="courses"> </h2>
             <ol class="courses">
@@ -45,7 +46,7 @@ nav_order: 4
                         <div id="npDoseResponse" class="col-sm-11">
                             <div class="title">npDoseResponse (R and Python packages)</div>
                             <div class="where">
-                                 Integral and a localized derivative estimators for nonparametric inference on covariate-adjusted regression functions/ dose-response curves and their derivatives (Zhang, Chen, Giessing, 2024).
+                                 Integral and a localized derivative estimators for nonparametric inference on covariate-adjusted regression functions/ dose-response curves and their derivatives (Zhang, Chen, and Giessing, 2024).
                             </div>
                             <div class="links">
                                 <a href="https://github.com/zhangyk8/npDoseResponse" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">GitHub Repository</a>   
