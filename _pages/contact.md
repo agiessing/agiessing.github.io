@@ -18,7 +18,7 @@ nav_order: 6
       6 Science Drive 2 <br>
       Singapore 117546 </p> 
     </div>
-    <div class="col-sm-4 col-xs-6">
+    <div class="col-sm-5 col-xs-6">
       <p> <span class="font-weight-bolder">Mailing address:</span> <br>
       Alexander Giessing <br>
       Department of Statistics and Data Science <br>
