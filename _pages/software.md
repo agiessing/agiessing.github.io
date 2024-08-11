@@ -18,7 +18,7 @@ nav_order: 4
                         <div id="debiasQR" class="col-sm-11">
                             <div class="title">debiasQR (R package) </div>
                            <div class="where">
-                                 Debiasing procedure for $\ell_1$-penalized quantile regression in high-dimensional sparse models via regression rank-scores (Giessing and Wang, 2023).
+                                 Debiasing procedure for L1-penalized quantile regression in high-dimensional sparse models via regression rank-scores (Giessing and Wang, 2023).
                             </div>
                             <div class="links">
                                     <a href="https://github.com/agiessing/debiasedQR" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">GitHub Repository</a>
