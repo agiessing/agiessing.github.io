@@ -15,8 +15,7 @@ nav_order: 6
       giessing@nus.edu.sg </p>
       <p> <span class="font-weight-bolder">Office:</span> <br>
       Blk S16 #07-110 <br>
-      6 Science Drive 2 <br>
-      Singapore 117546 </p> 
+      6 Science Drive 2 </p> 
     </div>
     <div class="col-sm-4 col-xs-6">
       <p> <span class="font-weight-bolder">Mailing address:</span> <br>
