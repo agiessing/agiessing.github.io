@@ -14,7 +14,6 @@ nav_order: 6
       <p> <span class="font-weight-bolder">E-mail:</span> <br>
       giessing@nus.edu.sg </p>
       <p> <span class="font-weight-bolder">Office:</span> <br>
-      Department of Statistics and Data Science
       Blk S16 #07-110 <br>
       6 Science Drive 2 </p> 
     </div>
