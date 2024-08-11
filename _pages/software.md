@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: teaching
 permalink: /software/
 title: Software
 description:
