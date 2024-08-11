@@ -6,19 +6,17 @@ description:
 nav: true
 nav_order: 4
 ---
-                
 
  <div class="container mt-5">
-   <h1 class="post-title"> Software (Preprints and Publications) </h1>
-        <div class="software">
-            <h2 class="packages"> </h2>
-            <ol class="packages">
+        <div class="teaching">
+            <h2 class="courses"> </h2>
+            <ol class="courses">
                 <li>
                     <div class="row">
                         <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="debiasQR (R package)" class="col-sm-11">
                             <div class="title">debiasQR (R package) </div>
-                           <div class="description">
+                           <div class="where">
                                  Debiasing procedure for $\ell_1$-penalized quantile regression in high-dimensional sparse models via regression rank-scores (Giessing and Wang, 2023).
                             </div>
                             <div class="links">
@@ -32,7 +30,7 @@ nav_order: 4
                         <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="STAT516" class="col-sm-11">
                             <div class="title">debiasInfer (R and Python packages)</div>
-                            <div class="description">
+                            <div class="where">
                                  Debiasing method for inference on high-dimensional linear regression functions with missing outcomes (Zhang, Giessing, and Chen, 2023).
                             </div>
                             <div class="links">
@@ -46,7 +44,7 @@ nav_order: 4
                         <div class="col-sm-1 d-none d-lg-block abbr"></div>
                         <div id="STAT394" class="col-sm-11">
                             <div class="title">npDoseResponse (R and Python packages)</div>
-                            <div class="description">
+                            <div class="where">
                                  Integral and a localized derivative estimators for nonparametric inference on covariate-adjusted regression functions/ dose-response curves and their derivatives (Zhang, Chen, Giessing, 2024).
                             </div>
                             <div class="links">
