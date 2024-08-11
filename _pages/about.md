@@ -16,7 +16,7 @@ selected_papers: false #true # includes a list of papers marked as "selected={tr
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am assistant professor in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg) at the [National University of Singapore](https://nus.edu.sg). I am broadly interested in inference on high-dimensional data.
+I am assistant professor in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg) at the [National University of Singapore](https://nus.edu.sg). I am broadly interested in inference and methodology on high-dimensional data.
 
 Ongoing Research Themes:
  * Gaussian and Bootstrap Approximations
