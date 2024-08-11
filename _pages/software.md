@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
  <div class="container mt-5">
-    <h1 class="post-title"> Software </h1>
+    <h1 class="post-title"> Software in Preprints and Publications </h1>
         <div class="teaching">
             <h2 class="courses"> </h2>
             <ol class="courses">
