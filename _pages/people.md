@@ -59,7 +59,7 @@ nav_order: 2
 
  <div class="container mt-5">
     <h2 class="post-title"> Do you wish to join us?</h2>
-      Every student is different, and I am committed to helping each of my students realize their full potential. To join my group, you must be a motivated and dedicated student. You also need to meet with me regularly (usually <u>twice</u> a week) and enjoy teamwork alongside independent study. 
+      Every student has different skills and strength, and I am committed to helping each of my students realize their full potential. To join my group, you must a motivated and dedicated student. You need to meet with me regularly and enjoy teamwork alongside independent study. 
  </div>
 
 
