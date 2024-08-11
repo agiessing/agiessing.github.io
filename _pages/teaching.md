@@ -78,7 +78,7 @@ nav_order: 4
                                  <em> University of Washington </em>
                             </div>
                             <div class="when">
-                                 Fall 2021, 2022, 2023, Winter 2022, 2023, Spring 2022, 2023
+                                 Fall 2021, 2022, 2023, Winter 2022, 2023, 2024, Spring 2022, 2023, 2024
                             </div>
                             <div class="links">
                                     <a href="/assets/pdf/STAT 390 - Syllabus - long version-2.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Syllabus</a>
