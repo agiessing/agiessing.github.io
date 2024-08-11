@@ -12,19 +12,21 @@ nav_order: 6
 <div class="row">    
     <div class="col-sm-4 col-xs-6">
       <p> <span class="font-weight-bolder">E-mail:</span> <br>
-      giessing@uw.edu </p>
+      giessing@nus.edu.sg </p>
       <p> <span class="font-weight-bolder">Office:</span> <br>
-      B-308 Padelford Hall <br>
-      4110 E Stevens Way NE <br>
-      Seattle, WA 98195 </p> 
+      Blk S16 #07-110 <br>
+      6 Science Drive 2 <br>
+      Singapore 117546 </p> 
     </div>
     <div class="col-sm-4 col-xs-6">
       <p> <span class="font-weight-bolder">Mailing address:</span> <br>
       Alexander Giessing <br>
-      University of Washington <br>
-      Department of Statistics <br>
-      Box 354322 <br>
-      Seattle, WA 98195 </p>  
+      Department of Statistics and Data Science <br>
+      Faculty of Science <br>
+      National University of Singapore <br>
+      Blk S16 Level 7 <br>
+      6 Science Drive 2 <br>
+      Singapore 117546 </p>  
     </div>
     <div class="col-sm-4 col-xs-6">
       <p> <span class="font-weight-bolder">Schedule time with me</span> <br>
