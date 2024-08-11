@@ -10,7 +10,7 @@ nav_order: 6
 
 
 <div class="row">    
-    <div class="col-sm-4 col-xs-6">
+    <div class="col-sm-3.5 col-xs-6">
       <p> <span class="font-weight-bolder">E-mail:</span> <br>
       giessing@nus.edu.sg </p>
       <p> <span class="font-weight-bolder">Office:</span> <br>
@@ -18,7 +18,7 @@ nav_order: 6
       6 Science Drive 2 <br>
       Singapore 117546 </p> 
     </div>
-    <div class="col-sm-5 col-xs-6">
+    <div class="col-sm-4.5 col-xs-6">
       <p> <span class="font-weight-bolder">Mailing address:</span> <br>
       Alexander Giessing <br>
       Department of Statistics and Data Science <br>
@@ -28,7 +28,7 @@ nav_order: 6
       6 Science Drive 2 <br>
       Singapore 117546 </p>  
     </div>
-    <div class="col-sm-4 col-xs-6">
+    <div class="col-sm-3.5 col-xs-6">
       <p> <span class="font-weight-bolder">Schedule time with me</span> <br>
       <a> 30 Minutes Chat </a> </p>
       <!-- <a href = "https://calendly.com/giessing-7xc/30min" target="_new"> 30 Minutes Chat </a> </p> -->
