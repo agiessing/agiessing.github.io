@@ -25,7 +25,7 @@ nav_order: 2
                            <a href= "https://zhangyk8.github.io">Yikun Zhang</a>, PhD Student at University of Washington
                            </div>
                             <div class="when">
-                                Sept. 2022 -- June 2024
+                                Sept. 2022 - June 2024
                             </div>
                              <div class="where">
                                 co-advised with <a href = "http://faculty.washington.edu/yenchic/" target="_new">Yen-Chi Chen</a>
@@ -47,7 +47,7 @@ nav_order: 2
                             <a href= "https://stat.uw.edu/about-us/people/wenjie-guan">Wenjie Guan</a>, MS Student at University of Washington, now PhD Student at Cornell University
                             </div>
                             <div class="when">
-                                June 2023 -- June 2024
+                                June 2023 - June 2024
                             </div>
                         </div>
                     </div>
