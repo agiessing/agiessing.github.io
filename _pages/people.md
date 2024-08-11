@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
  <div class="container mt-5">
-        <h1 class="post-title"> Current Students </h1>
+        <h1 class="post-title"> Former and Current Students </h1>
         <div class="teaching">
             <ol class="courses">
                 <li>
@@ -22,10 +22,10 @@ nav_order: 2
                                 </div>
                         <div id="Yikun_Zhang" class="col-sm-8">
                            <div class="title">
-                           <a href= "https://zhangyk8.github.io">Yikun Zhang</a>, PhD Student
+                           <a href= "https://zhangyk8.github.io">Yikun Zhang</a>, PhD Student at University of Washington
                            </div>
                             <div class="when">
-                                since Sept. 2022
+                                Sept. 2022 -- June 2024
                             </div>
                              <div class="where">
                                 co-advised with <a href = "http://faculty.washington.edu/yenchic/" target="_new">Yen-Chi Chen</a>
@@ -44,10 +44,10 @@ nav_order: 2
                                 </div>
                        <div id="Wenjie_Guan" class="col-sm-8">     
                             <div class="title">
-                            <a href= "https://stat.uw.edu/about-us/people/wenjie-guan">Wenjie Guan</a>, MS Student 
+                            <a href= "https://stat.uw.edu/about-us/people/wenjie-guan">Wenjie Guan</a>, MS Student at University of Washington, now PhD at Cornell University
                             </div>
                             <div class="when">
-                                since June 2023
+                                June 2023 -- June 2024
                             </div>
                         </div>
                     </div>
@@ -59,7 +59,7 @@ nav_order: 2
 
  <div class="container mt-5">
     <h2 class="post-title"> Do you wish to join us?</h2>
-      Every student is different, and I am committed to helping each of my students realize their full potential. To join our group, you must be a motivated and dedicated student. You also need to meet with me regularly (usually <u>twice</u> a week) and enjoy teamwork alongside independent study. 
+      Every student is different, and I am committed to helping each of my students realize their full potential. To join my group, you must be a motivated and dedicated student. You also need to meet with me regularly (usually <u>twice</u> a week) and enjoy teamwork alongside independent study. 
  </div>
 
 
