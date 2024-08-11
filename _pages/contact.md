@@ -20,7 +20,6 @@ nav_order: 7
     </div>
     <div class="col-sm-4 col-xs-6">
       <p> <span class="font-weight-bolder">Mailing address:</span> <br>
-      Alexander Giessing <br>
       Dept. of Statistics & Data Science <br>
       Faculty of Science <br>
       National University of Singapore <br>
