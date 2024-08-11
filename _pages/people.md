@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
  <div class="container mt-5">
-        <h1 class="post-title"> Former and Current Students </h1>
+        <h1 class="post-title"> Former Students </h1>
         <div class="teaching">
             <ol class="courses">
                 <li>
@@ -59,7 +59,7 @@ nav_order: 4
 
  <div class="container mt-5">
     <h2 class="post-title"> Do you wish to join us?</h2>
-      Every student has different skills and strength, and I am committed to helping each of my students realize their full potential. To join our group, you must a motivated and dedicated student. You also need to meet with me regularly (typically twice a week) and enjoy teamwork alongside independent study. 
+      Every student has different skills and strengths, and I am committed to helping each of my students realize their full potential. To join our group, you must be a motivated and dedicated student. You also need to meet with me regularly (typically twice a week) and enjoy teamwork alongside independent study. 
  </div>
 
 
