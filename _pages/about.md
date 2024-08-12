@@ -25,5 +25,5 @@ Ongoing Research Themes:
  * Quantile Regression
  * Empirical Process Theory
 
-Before joining the National University of Singapore, I was acting assistant professor in the Department of Statistics at University of Washington and postdoc in the Dept. of Operations Research and Financial Engineering at Princeton University.
+Before joining the National University of Singapore, I was acting assistant professor in the Department of Statistics at University of Washington and postdoc in the Department of Operations Research and Financial Engineering at Princeton University.
 
